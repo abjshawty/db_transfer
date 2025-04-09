@@ -1,0 +1,275 @@
+{
+    "activites": {
+        "_id": "id",
+        "codeact": "codeact",
+        "libact": "libact"
+    },
+    "agents": {
+        "_id": "id",
+        "matricule": "matricule",
+        "nom": "nom",
+        "prenom": "prenom",
+        "numCNPS": "numCNPS",
+        "localisation": "localisation",
+        "email": "email",
+        "codeSociete": "codeSociete",
+        "exploitation": "exploitation",
+        "adresse": "adresse",
+        "codeStatu": "codeStatut",
+        "lastUser": "lastUser",
+        "lastDate": "lastDate",
+        "telephone": "telephone",
+        "nomReseau": "nomReseau",
+        "codeCategorieAgent": "codeCategorieAgent",
+        "codeZoneIntervention": "codeZoneIntervention",
+        "codeFonctionAgent": "codeFonctionAgent",
+        "isResponsableCI": "isResponsableCI"
+    },
+    "approvisionnements": {
+        "_id": "id",
+        "caisse": "caisse",
+        "iduser": "userid",
+        "idbeneficiaire": "beneficiaireId",
+        "numerobon": "numeroBon",
+        "montant": "montant",
+        "motif": "motif",
+        "status": "status"
+    },
+    "attributions": {},
+    "attributioncaisses": {
+        "_id": "id",
+        "caisse": "caisse",
+        "attribution": "attributionId",
+        "status": "status",
+        "user": "userId"
+    },
+    "bonmissions": {
+        "_id": "id",
+        "numeroBon": "numeroBon",
+        "motif": "motif",
+        "serviceEmetteur": "serviceEmetteur",
+        "beneficiaire": "beneficiaireId",
+        "matricule": "matricule",
+        "nom": "nom",
+        "zoneIntervention": "zoneIntervention",
+        "mandataire": "mandataire",
+        "emetteur": "emetteur",
+        "typeMission": "typeMission",
+        "moyenTransport": "moyenTransport",
+        "ordonnateurMission": "ordonnateurMission",
+        "dateDepart": "dateDepart",
+        "dateArrivee": "dateArrivee",
+        "itineraireMultiple": "itineraireMultiple",
+        "status": "status",
+        "depart": "depart",
+        "arrivee": "arrivee",
+        "itineraires": "itineraireId",
+        "typeCarburant": "typeCarburant",
+        "tauxKilometrique": "tauxKilometrique",
+        "complementKilometrique": "complementKilometrique",
+        "distanceCalculee": "distanceCalculee",
+        "indemniteKilometrique": "indemniteKilometrique",
+        "tarifsTransportCommun": "tarifsTransportCommun",
+        "complementTransport": "complementTransport",
+        "fraisDeplacement": "fraisDeplacement",
+        "nombreRepas": "nombreRepas",
+        "nombreNuitees": "nombreNuitees",
+        "prixRestauration": "prixRestauration",
+        "prixHebergement": "prixHebergement",
+        "montantRestauration": "montantRestauration",
+        "totalOrdreMission": "totalOrdreMission",
+        "exploitation": "exploitation",
+        "activite": "activite",
+        "indiceTiers": "indiceTiers",
+        "codePartenaire": "codePartenaire",
+        "pieceJointe": "pieceJointe",
+        "texteAnnexe": "texteAnnexe",
+        "justify": "justify"
+    },
+    "caisses": {
+        "_id": "id",
+        "code": "code",
+        "libelle": "libelle",
+        "lieu": "lieu",
+        "poste": "posteId",
+        "status": "status",
+        "user": "userId"
+    },
+    "categorieagents": {
+        "_id": "id",
+        "codeCategorieAgent": "code",
+        "libelleCategorieAgent": "libelle"
+    },
+    "centreinputations": {
+        "_id": "id",
+        "codeci": "codeci",
+        "libci": "libci",
+        "codeEntite": "codeEntite"
+    },
+    "comptes": {
+        "_id": "id",
+        "numero": "numero",
+        "libelle": "libelle",
+        "status": "status",
+        "user": "userId"
+    },
+    "configurationschemas": {},
+    "delegations": {
+        "_id": "id",
+        "dateDebut": "dateDebut",
+        "dateFin": "dateFin",
+        "delegateTo": "delegateTo",
+        "user": "userId"
+    },
+    "departarrives": {
+        "_id": "id",
+        "codeItineraire": "codeItineraire",
+        "libelleItineraire": "libelleItineraire",
+        "codeDepart": "codeDepart",
+        "codeArrivee": "codeArrive",
+        "codeTypeDepart": "codeTypeDepart",
+        "codeTypeArrivee": "codeTypeArrivee",
+        "typeMission": "typeMission"
+    },
+    "fonctions": {
+        "_id": "id",
+        "codeFonction": "code",
+        "libelleFonction": "libelle"
+    },
+    "grillefrais": {
+        "_id": "id",
+        "codeCategorieAgent": "codeCategorieAgent",
+        "codeTypeFrais": "codeTypeFrais",
+        "montant": "montant"
+    },
+    "grillekilometriques": {
+        "_id": "id",
+        "codeFonction": "codeFonction",
+        "codeTypeCarburant": "codeTypeCarburant",
+        "valeurTauxKm": "valeurTauxKm"
+    },
+    "itinerairedistances": {
+        "_id": "id",
+        "codeItineraire": "codeItineraire",
+        "matricule": "matricule",
+        "distance": "distance",
+        "enVigueur": "enVigueur"
+    },
+    "justifications": {
+        "_id": "id",
+        "numeroBon": "numeroBon",
+        "dateDepart": "dateDepart",
+        "dateArrivee": "dateArrivee",
+        "urlPJ": "urlPJ",
+        "late": "late",
+        "limitDate": "limitDate",
+        "status": "status",
+        "organisation": "organisation",
+        "user": "userId"
+    },
+    "moyentransports": {
+        "_id": "id",
+        "codeMoyenTransport": "code",
+        "libelleMoyenTransport": "libelle"
+    },
+    "natures": {
+        "_id": "id",
+        "libelle": "libelle",
+        "status": "status",
+        "user": "userId"
+    },
+    "numbons": {
+        "_id": "id",
+        "prefix": "prefix",
+        "isUsed": "isUsed",
+        "numeroBon": "numeroBon"
+    },
+    "organisations": {
+        "_id": "id",
+        "name": "name",
+        "status": "status",
+        "user": "userId",
+        "societe": "societe"
+    },
+    "postes": {
+        "_id": "id",
+        "libelle": "libelle",
+        "adresseip": "adresseip",
+        "status": "status",
+        "user": "userId"
+    },
+    "profiles": {},
+    "reversements": {
+        "_id": "id",
+        "caisse": "caisse",
+        "iduser": "userId",
+        "idbeneficiaire": "beneficiaireId",
+        "numerobon": "numeroBon",
+        "montant": "montant",
+        "motif": "motif",
+        "dateReversement": "dateReversement",
+        "typeReversement": "typeReversement"
+    },
+    "roles": {
+        "_id": "id",
+        "name": "name",
+        "status": "status",
+        "user": "userId"
+    },
+    "schemacomptables": {
+        "_id": "id",
+        "libelle": "libelle",
+        "configuration": "configurationId",
+        "status": "status",
+        "user": "userId"
+    },
+    "societes": {
+        "_id": "id",
+        "slug": "slug",
+        "name": "name",
+        "code": "code",
+        "status": "status",
+        "user": "userId"
+    },
+    "typecarburants": {
+        "_id": "id",
+        "codeTypeCarburant": "code",
+        "libelleTypeCarburant": "libelle"
+    },
+    "typefrais": {
+        "_id": "id",
+        "codeTypeFrais": "code",
+        "libelleTypeFrais": "libelle"
+    },
+    "typemissions": {
+        "_id": "id",
+        "codeTypeMission": "code",
+        "libTypeMission": "libelle"
+    },
+    "users": {
+        "_id": "id",
+        "email": "email",
+        "lastname": "lastname",
+        "firstname": "firstname",
+        "matricule": "matricule",
+        "status": "status",
+        "role": "role",
+        "isEmailConfirmed": "isEmailConfirmed",
+        "profile": "profileId",
+        "user": "userId",
+        "lastLoginDate": "lastLoginDate"
+    },
+    "userpriorities": {},
+    "villes": {
+        "_id": "id",
+        "codeVille": "code",
+        "codePays": "codePays",
+        "libelleVille": "libelle"
+    },
+    "zoneinterventions": {
+        "_id": "id",
+        "codeZoneIntervention": "code",
+        "libelleZoneIntervention": "libelle",
+        "typeLieu": "typeLieu"
+    }
+}
