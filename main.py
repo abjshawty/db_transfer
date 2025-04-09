@@ -20,7 +20,8 @@ mysql_config = {
     'host': os.getenv('MARIADB_URL'),
     'user': os.getenv('MARIADB_USER'),
     'password': os.getenv('MARIADB_PASSWORD'),
-    'database': os.getenv('MARIADB_TARGET_DB')
+    'database': os.getenv('MARIADB_TARGET_DB'),
+    'collation': 'utf8mb4_general_ci'
 }
 
 # Functions
@@ -35,18 +36,15 @@ def connect(mongodb_uri: str, mysql_config: dict):
     mongo_client = pymongo.MongoClient(mongodb_uri)
     # Create Database if it doesn't already exist
     mysql_conn_creator = mysql.connector.connect(**{
-        'host': os.getenv('MARIADB_URL'),
-        'user': os.getenv('MARIADB_USER'),
-        'password': os.getenv('MARIADB_PASSWORD'),
-        'collation': 'utf8mb4_general_ci'
+        'host': mysql_config["host"],
+        'user': mysql_config["user"],
+        'password': mysql_config["password"],
+        'collation': mysql_config["collation"]
     })
     creation_cursor = mysql_conn_creator.cursor()
     creation_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {mysql_config['database']}")
     creation_cursor.close()
     mysql_conn_creator.close()
-    mysql_conn = mysql.connector.connect(**mysql_config)
-    print("Connected to MongoDB and MySQL")
-    return mongo_client, mysql_conn
     mysql_conn = mysql.connector.connect(**mysql_config)
     print("Connected to MongoDB and MySQL")
     return mongo_client, mysql_conn
