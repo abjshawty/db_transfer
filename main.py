@@ -38,11 +38,15 @@ def connect(mongodb_uri: str, mysql_config: dict):
         'host': os.getenv('MARIADB_URL'),
         'user': os.getenv('MARIADB_USER'),
         'password': os.getenv('MARIADB_PASSWORD'),
+        'collation': 'utf8mb4_general_ci'
     })
     creation_cursor = mysql_conn_creator.cursor()
-    creation_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {mysql_config['database']} CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci")
+    creation_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {mysql_config['database']}")
     creation_cursor.close()
     mysql_conn_creator.close()
+    mysql_conn = mysql.connector.connect(**mysql_config)
+    print("Connected to MongoDB and MySQL")
+    return mongo_client, mysql_conn
     mysql_conn = mysql.connector.connect(**mysql_config)
     print("Connected to MongoDB and MySQL")
     return mongo_client, mysql_conn
