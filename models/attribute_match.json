@@ -164,7 +164,7 @@
         "late": "late",
         "limitDate": "limitDate",
         "status": "status",
-        "organisation": "organisation",
+        "organisation": "organisationId",
         "user": "userId"
     },
     "moyentransports": {
@@ -189,7 +189,7 @@
         "name": "name",
         "status": "status",
         "user": "userId",
-        "societe": "societe"
+        "societe": "societyId"
     },
     "postes": {
         "_id": "id",
@@ -201,7 +201,7 @@
     "profiles": {},
     "reversements": {
         "_id": "id",
-        "caisse": "caisse",
+        "caisse": "caisseId",
         "iduser": "userId",
         "idbeneficiaire": "beneficiaireId",
         "numerobon": "numeroBon",
