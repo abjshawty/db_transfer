@@ -1,5 +1,6 @@
 # Imports
 import os
+import bson
 import json
 import pymongo
 import mysql.connector
@@ -57,7 +58,21 @@ def close(mysql_conn, mongo_client):
 
 def document_mongo_attr(document: dict, attr: str):
     all_attr = attr.split(", ")
-    resulting_list = [str(document.get(attribute, "")) for attribute in all_attr]
+    resulting_list = [document.get(attribute, "") for attribute in all_attr]
+    resulting_list[0] = str(resulting_list[0])
+    for i, e in enumerate(resulting_list):
+        if type(e) == list:
+            print("AHAHAHAHAHAHAHAHAHAH", e)
+            if 2 > len(e) > 0 and type(e[0]) == bson.ObjectId:
+                resulting_list[i] = json.dumps([str(x) for x in e])[:255]
+            elif len(e) > 0 and type(e[0]) == bson.ObjectId:
+                resulting_list[i] = str(e[0])
+            else:
+                resulting_list[i] = json.dumps(str(e))[:255]
+        elif type(e) == bson.ObjectId:
+            resulting_list[i] = str(e)
+        elif type(e) == str and e == '':
+            resulting_list[i] = None
     return tuple(resulting_list)
 
 def transfer(
