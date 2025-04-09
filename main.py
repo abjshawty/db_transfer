@@ -26,6 +26,16 @@ def create_attribute_list(table: str):
     return mongo_client, mysql_conn
 def connect(mongodb_uri: str, mysql_config: dict):
     mongo_client = pymongo.MongoClient(mongodb_uri)
+    # Create Database if it doesn't already exist
+    mysql_conn_creator = mysql.connector.connect(**{
+        'host': os.getenv('MARIADB_URL'),
+        'user': os.getenv('MARIADB_USER'),
+        'password': os.getenv('MARIADB_PASSWORD'),
+    })
+    creation_cursor = mysql_conn_creator.cursor()
+    creation_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {mysql_config['database']}")
+    creation_cursor.close()
+    mysql_conn_creator.close()
     mysql_conn = mysql.connector.connect(**mysql_config)
     print("Connected to MongoDB and MySQL")
     return mongo_client, mysql_conn
