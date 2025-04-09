@@ -40,7 +40,7 @@ def connect(mongodb_uri: str, mysql_config: dict):
         'password': os.getenv('MARIADB_PASSWORD'),
     })
     creation_cursor = mysql_conn_creator.cursor()
-    creation_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {mysql_config['database']}")
+    creation_cursor.execute(f"CREATE DATABASE IF NOT EXISTS {mysql_config['database']} CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci")
     creation_cursor.close()
     mysql_conn_creator.close()
     mysql_conn = mysql.connector.connect(**mysql_config)
@@ -110,7 +110,7 @@ def run():
     for db in dbs:
         mongo_db = db.strip()
         try:
-            print(f"Connected to DB {mongo_db}")
+            print(f"Connected to MongoDB database {mongo_db}")
             mongo_client, mysql_conn = connect(mongo_uri, mysql_config)
             foreign_cursor = mysql_conn.cursor()
             foreign_cursor.execute("SET FOREIGN_KEY_CHECKS = 0;")
