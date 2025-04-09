@@ -117,12 +117,12 @@ def run():
             create_with_file(mysql_conn, 'GS-SODECI.sql')
             for collection in tables_mongo_mysql:
                 transfer(mongo_client, mongo_db, collection, mysql_conn)
-        except Exception as e:
-            print(f"A big error occurred: {e}")
-            continue
-        finally:
             foreign_cursor.execute("SET FOREIGN_KEY_CHECKS = 1;")
             foreign_cursor.close()
+        # except Exception as e:
+            # print(f"A big error occurred: {e}")
+            # continue
+        finally:
             close(mysql_conn, mongo_client)
 
 # Main
