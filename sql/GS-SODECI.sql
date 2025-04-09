@@ -238,6 +238,7 @@ CREATE TABLE IF NOT EXISTS `Nature` (
   `id` varchar(255) PRIMARY KEY,
   `status` varchar(255),
   `libelle` varchar(255),
+  `userId` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
   `__v` integer DEFAULT 0
@@ -295,14 +296,17 @@ CREATE TABLE IF NOT EXISTS `Role` (
   `id` varchar(255) PRIMARY KEY,
   `name` varchar(255),
   `status` varchar(255),
+  `userId` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
   `__v` integer DEFAULT 0
 );
 CREATE TABLE IF NOT EXISTS `SchemaComptable` (
   `id` varchar(255) PRIMARY KEY,
-  `configuration` varchar(255),
+  `configurationId` varchar(255),
   `libelle` varchar(255),
+  `status` varchar(255),
+  `userId` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
   `__v` integer DEFAULT 0
@@ -424,6 +428,8 @@ ALTER TABLE `Justification`
 ADD FOREIGN KEY (`organisationId`) REFERENCES `Organisation` (`id`);
 ALTER TABLE `Justification`
 ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
+ALTER TABLE `Nature`
+ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `Organisation`
 ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `Organisation`
@@ -441,10 +447,12 @@ ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `Reversement`
 ADD FOREIGN KEY (`beneficiaireId`) REFERENCES `Agent` (`id`);
 ALTER TABLE `SchemaComptable`
-ADD FOREIGN KEY (`configuration`) REFERENCES `ConfigurationSchema` (`id`);
+ADD FOREIGN KEY (`configurationId`) REFERENCES `ConfigurationSchema` (`id`);
+ALTER TABLE `SchemaComptable`
+ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `Societe`
 ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `User`
 ADD FOREIGN KEY (`profileId`) REFERENCES `Profile` (`id`);
-ALTER TABLE `User`
-ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
+-- ALTER TABLE `User`
+-- ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
