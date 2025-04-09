@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS `Agent` (
   `adresse` varchar(255),
   `codeStatut` varchar(255),
   `lastUser` varchar(255),
-  `lastDate` date,
+  `lastDate` varchar(255),
   `telephone` varchar(255),
   `nomReseau` varchar(255),
   `codeCategorieAgent` varchar(255),
