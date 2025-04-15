@@ -1,8 +1,8 @@
 {
     "activites": {
         "_id": "id",
-        "codeact": "codeact",
-        "libact": "libact"
+        "codeact": "code",
+        "libact": "libelle"
     },
     "agents": {
         "_id": "id",
@@ -27,8 +27,8 @@
     },
     "approvisionnements": {
         "_id": "id",
-        "caisse": "caisse",
-        "iduser": "userid",
+        "caisse": "caisseId",
+        "iduser": "userId",
         "idbeneficiaire": "beneficiaireId",
         "numerobon": "numeroBon",
         "montant": "montant",
@@ -38,7 +38,7 @@
     "attributions": {},
     "attributioncaisses": {
         "_id": "id",
-        "caisse": "caisse",
+        "caisse": "caisseId",
         "attribution": "attributionId",
         "status": "status",
         "user": "userId"
@@ -53,9 +53,9 @@
         "nom": "nom",
         "zoneIntervention": "zoneIntervention",
         "mandataire": "mandataire",
-        "emetteur": "emetteur",
+        "emetteur": "emetteurId",
         "typeMission": "typeMission",
-        "moyenTransport": "moyenTransport",
+        "moyenTransport": "codeMoyenTransport",
         "ordonnateurMission": "ordonnateurMission",
         "dateDepart": "dateDepart",
         "dateArrivee": "dateArrivee",
@@ -102,8 +102,8 @@
     },
     "centreinputations": {
         "_id": "id",
-        "codeci": "codeci",
-        "libci": "libci",
+        "codeci": "code",
+        "libci": "libelle",
         "codeEntite": "codeEntite"
     },
     "comptes": {
@@ -129,7 +129,7 @@
         "codeArrivee": "codeArrive",
         "codeTypeDepart": "codeTypeDepart",
         "codeTypeArrivee": "codeTypeArrivee",
-        "typeMission": "typeMission"
+        "typeMission": "codeTypeMission"
     },
     "fonctions": {
         "_id": "id",
@@ -198,7 +198,12 @@
         "status": "status",
         "user": "userId"
     },
-    "profiles": {},
+    "profiles": {
+        "_id": "id",
+        "isDefault": "isDefault",
+        "organisation": "organisationId",
+        "role": "roleId"
+    },
     "reversements": {
         "_id": "id",
         "caisse": "caisseId",
@@ -253,7 +258,7 @@
         "firstname": "firstname",
         "matricule": "matricule",
         "status": "status",
-        "role": "role",
+        "role": "roleId",
         "isEmailConfirmed": "isEmailConfirmed",
         "profile": "profileId",
         "user": "userId",

@@ -32,8 +32,8 @@ CREATE TABLE IF NOT EXISTS `Agent` (
 );
 CREATE TABLE IF NOT EXISTS `Approvisionnement` (
   `id` varchar(255) PRIMARY KEY,
-  `caisse` varchar(255),
-  `userid` varchar(255),
+  `caisseId` varchar(255),
+  `userId` varchar(255),
   `beneficiaireId` varchar(255),
   `numeroBon` varchar(255),
   `montant` decimal,
@@ -51,7 +51,7 @@ CREATE TABLE IF NOT EXISTS `Attribution` (
 );
 CREATE TABLE IF NOT EXISTS `AttributionCaisse` (
   `id` varchar(255) PRIMARY KEY,
-  `caisse` varchar(255),
+  `caisseId` varchar(255),
   `attributionId` varchar(255),
   `status` varchar(255),
   `userId` varchar(255),
@@ -69,9 +69,9 @@ CREATE TABLE IF NOT EXISTS `BonMission` (
   `nom` varchar(255),
   `zoneIntervention` varchar(255),
   `mandataire` boolean,
-  `emetteur` varchar(255),
+  `emetteurId` varchar(255),
   `typeMission` varchar(255),
-  `moyenTransport` varchar(255),
+  `codeMoyenTransport` varchar(255),
   `ordonnateurMission` varchar(255),
   `dateDepart` datetime,
   `dateArrivee` datetime,
@@ -145,8 +145,8 @@ CREATE TABLE IF NOT EXISTS `CategorieAgent` (
 );
 CREATE TABLE IF NOT EXISTS `CentreImputation` (
   `id` varchar(255) PRIMARY KEY,
-  `codeci` varchar(255),
-  `libci` varchar(255),
+  `code` varchar(255),
+  `libelle` varchar(255),
   `codeEntite` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
@@ -170,14 +170,14 @@ CREATE TABLE IF NOT EXISTS `DepartArrive` (
   `codeArrive` varchar(255),
   `codeTypeDepart` varchar(255),
   `codeTypeArrivee` varchar(255),
-  `typeMission` varchar(255),
+  `codeTypeMission` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
   `__v` integer DEFAULT 0
 );
 CREATE TABLE IF NOT EXISTS `Fonction` (
   `id` varchar(255) PRIMARY KEY,
-  `code` varchar(255),
+  `code` varchar(255) UNIQUE,
   `libelle` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
@@ -276,7 +276,10 @@ CREATE TABLE IF NOT EXISTS `Profile` (
   `id` varchar(255) PRIMARY KEY,
   `isDefault` boolean,
   `organisationId` varchar(255),
-  `role` varchar(255)
+  `roleId` varchar(255),
+  `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
+  `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
+  `__v` integer DEFAULT 0
 );
 CREATE TABLE IF NOT EXISTS `Reversement` (
   `id` varchar(255) PRIMARY KEY,
@@ -353,7 +356,7 @@ CREATE TABLE IF NOT EXISTS `User` (
   `lastname` varchar(255),
   `matricule` varchar(255),
   `status` varchar(255),
-  `role` varchar(255),
+  `roleId` varchar(255),
   `isEmailConfirmed` boolean,
   `profileId` varchar(255),
   `userId` varchar(255),
@@ -393,13 +396,13 @@ ADD FOREIGN KEY (`codeSociete`) REFERENCES `Societe` (`code`);
 ALTER TABLE `Agent`
 ADD FOREIGN KEY (`codeCategorieAgent`) REFERENCES `CategorieAgent` (`code`);
 ALTER TABLE `Approvisionnement`
-ADD FOREIGN KEY (`caisse`) REFERENCES `Caisse` (`id`);
+ADD FOREIGN KEY (`caisseId`) REFERENCES `Caisse` (`id`);
 ALTER TABLE `Approvisionnement`
-ADD FOREIGN KEY (`userid`) REFERENCES `User` (`id`);
+ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `Approvisionnement`
 ADD FOREIGN KEY (`beneficiaireId`) REFERENCES `Agent` (`id`);
 ALTER TABLE `AttributionCaisse`
-ADD FOREIGN KEY (`caisse`) REFERENCES `Caisse` (`id`);
+ADD FOREIGN KEY (`caisseId`) REFERENCES `Caisse` (`id`);
 ALTER TABLE `AttributionCaisse`
 ADD FOREIGN KEY (`attributionId`) REFERENCES `Attribution` (`id`);
 ALTER TABLE `AttributionCaisse`
@@ -407,9 +410,9 @@ ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `BonMission`
 ADD FOREIGN KEY (`beneficiaireId`) REFERENCES `Agent` (`id`);
 ALTER TABLE `BonMission`
-ADD FOREIGN KEY (`emetteur`) REFERENCES `Agent` (`id`);
+ADD FOREIGN KEY (`emetteurId`) REFERENCES `Agent` (`id`);
 ALTER TABLE `BonMission`
-ADD FOREIGN KEY (`moyenTransport`) REFERENCES `MoyenTransport` (`code`);
+ADD FOREIGN KEY (`codeMoyenTransport`) REFERENCES `MoyenTransport` (`code`);
 ALTER TABLE `Caisse`
 ADD FOREIGN KEY (`posteId`) REFERENCES `Poste` (`id`);
 ALTER TABLE `Caisse`
@@ -439,7 +442,7 @@ ADD FOREIGN KEY (`userId`) REFERENCES `User` (`id`);
 ALTER TABLE `Profile`
 ADD FOREIGN KEY (`organisationId`) REFERENCES `Organisation` (`id`);
 ALTER TABLE `Profile`
-ADD FOREIGN KEY (`role`) REFERENCES `Role` (`id`);
+ADD FOREIGN KEY (`roleId`) REFERENCES `Role` (`id`);
 ALTER TABLE `Reversement`
 ADD FOREIGN KEY (`caisseId`) REFERENCES `Caisse` (`id`);
 ALTER TABLE `Reversement`
