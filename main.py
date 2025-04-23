@@ -1,5 +1,6 @@
 # Imports
 import os
+import re
 import bson
 import json
 import pymongo
@@ -49,6 +50,17 @@ def connect(mongodb_uri: str, mysql_config: dict):
     mysql_conn = mysql.connector.connect(**mysql_config)
     print("Connected to MongoDB and MySQL")
     return mongo_client, mysql_conn
+
+def clean_profiles(mysql_conn: PooledMySQLConnection | MySQLConnectionAbstract):
+    mysql_cursor = mysql_conn.cursor()
+    lock = "LOCK TABLE User WRITE"
+    unlock = "UNLOCK TABLES"
+    print("Cleaning profiles...")
+    mysql_cursor.execute(lock)
+    mysql_cursor.execute("UPDATE User SET profileId = NULL")
+    mysql_cursor.execute(unlock)
+    mysql_conn.commit()
+    mysql_cursor.close()
 
 def close(mysql_conn, mongo_client):
     closing_message = "Closing connections..."
@@ -134,6 +146,7 @@ def run():
             create_with_file(mysql_conn, 'GS-SODECI.sql')
             for collection in tables_mongo_mysql:
                 transfer(mongo_client, mongo_db, collection, mysql_conn)
+            clean_profiles(mysql_conn)
             foreign_cursor.execute("SET FOREIGN_KEY_CHECKS = 1;")
             foreign_cursor.close()
         # except Exception as e:

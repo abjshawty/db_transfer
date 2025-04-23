@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "651c06689a52b215df3c7d22"
+  },
+  "codeTypeFrais": 1,
+  "libelleTypeFrais": "Frais d'hébergement",
+  "createdAt": {
+    "$date": "2023-10-03T12:17:44.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T20:51:10.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c06839a52b215df3c7d25"
+  },
+  "codeTypeFrais": 2,
+  "libelleTypeFrais": "Frais de restauration",
+  "createdAt": {
+    "$date": "2023-10-03T12:18:11.420Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T12:18:11.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c06989a52b215df3c7d28"
+  },
+  "codeTypeFrais": 3,
+  "libelleTypeFrais": "Frais de transport",
+  "createdAt": {
+    "$date": "2023-10-03T12:18:32.661Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T12:18:32.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a9148ec6f2b35975357132"
+  },
+  "codeTypeFrais": 5,
+  "libelleTypeFrais": "Frais de Maintenance",
+  "createdAt": {
+    "$date": "2024-01-18T12:07:42.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T12:07:42.167Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,958 @@
+[{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc8237"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "brice.gnazale@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "6798c11b6c18288a7f91f8b5"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2023-12-01T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6798c11b6c18288a7f91f8b6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:35:55.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc8239"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "soveh@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": true,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "665e42c10f884630a3dc82c2"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2023-12-01T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "665e42c10f884630a3dc82c3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T08:24:29.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc8236"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "admin@demo.com",
+  "lastname": "Doe",
+  "firstname": "John",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "66a0eaeda6132b087eea8060"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "66d702a4a1cbb465a48321bc"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2023-12-01T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66d702a4a1cbb465a48321bd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.779Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T16:35:23.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc8238"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "ballo.issiaka@gs2e.ci",
+  "profile": [],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc823b"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "dworou@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": true,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "665e42fc0f884630a3dc82d6"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2023-12-01T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "665e42fc0f884630a3dc82d7"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T22:26:04.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "jbrakoi@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "67128ebb129c1ee68c8aa903"
+      },
+      "roles": [
+        {
+          "status": "expired",
+          "_id": {
+            "$oid": "673495ee59c4a7146258864d"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2023-12-01T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "673495ee59c4a7146258864e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T09:38:47.161Z"
+  },
+  "__v": 0,
+  "firstname": "JOEL",
+  "lastLoginDate": {
+    "$date": "2025-02-25T09:38:47.150Z"
+  },
+  "lastname": "BRAKOI,",
+  "matricule": "00655"
+},
+{
+  "_id": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "roger.kangah@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "666037a70f884630a3dc83f2"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2025-06-06T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-07-25T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "666037a70f884630a3dc83f3"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "createdAt": {
+    "$date": "2024-06-05T10:02:15.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:13:38.644Z"
+  },
+  "__v": 0,
+  "firstname": "ROGER",
+  "lastLoginDate": {
+    "$date": "2025-02-05T14:13:38.633Z"
+  },
+  "lastname": "KANGAH",
+  "matricule": "023563M"
+},
+{
+  "_id": {
+    "$oid": "666ae42b0f884630a3dc8479"
+  },
+  "status": "removed",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "K@GMAIL.COM",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "666ae42b0f884630a3dc847a"
+          },
+          "role": {
+            "$oid": "66603c1e48045a82babb8726"
+          },
+          "startDate": {
+            "$date": "2024-06-13T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-07-13T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "666ae42b0f884630a3dc847b"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-13T12:20:59.433Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T12:21:05.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66740b9c0f884630a3dc84d3"
+  },
+  "status": "removed",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "SORIA@cie.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "6695511f0f884630a3dc86d2"
+          },
+          "role": {
+            "$oid": "66603c1e48045a82babb8726"
+          },
+          "startDate": {
+            "$date": "2024-07-31T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-12-31T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6695511f0f884630a3dc86d3"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-20T10:59:40.953Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T09:11:57.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66740bc00f884630a3dc84f0"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "AGGAHA@cie.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "66740bc00f884630a3dc84f1"
+          },
+          "role": {
+            "$oid": "66603c1e48045a82babb8726"
+          },
+          "startDate": {
+            "$date": "2024-06-20T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-07-20T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66740bc00f884630a3dc84f2"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-20T11:00:16.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T11:00:16.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698dc250f884630a3dc8741"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "YKAKOUAKOU@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "6698dde50f884630a3dc8788"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2024-08-16T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-08-24T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6698dde50f884630a3dc8789"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T09:11:01.534Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T09:18:29.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698dc790f884630a3dc8768"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "soria@cie.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "665e40418043facf8c1ac639"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "6698dc790f884630a3dc8769"
+          },
+          "role": {
+            "$oid": "66603c1e48045a82babb8726"
+          },
+          "startDate": {
+            "$date": "2024-08-08T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-08-23T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6698dc790f884630a3dc876a"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T09:12:25.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-23T10:16:23.274Z"
+  },
+  "__v": 0,
+  "firstname": "GNAMIEN SERGE ANDERSON",
+  "lastLoginDate": {
+    "$date": "2024-07-23T10:16:23.260Z"
+  },
+  "lastname": "ORIA,",
+  "matricule": "022342K"
+},
+{
+  "_id": {
+    "$oid": "66d87928a1cbb465a483222c"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "alain.zeze@sodeci.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "66a0eaeda6132b087eea8060"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "66d87928a1cbb465a483222d"
+          },
+          "role": {
+            "$oid": "6660518048045a82babb8733"
+          },
+          "startDate": {
+            "$date": "2024-09-04T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-10-04T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66d87928a1cbb465a483222e"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-09-04T15:13:44.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-11T08:16:54.401Z"
+  },
+  "__v": 0,
+  "firstname": "THIERRY ALAIN KEVIN",
+  "lastLoginDate": {
+    "$date": "2024-09-11T08:16:54.389Z"
+  },
+  "lastname": "ZEZE",
+  "matricule": "018237L"
+},
+{
+  "_id": {
+    "$oid": "66d879b1a1cbb465a483225e"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "jirie@sodeci.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "66a0eaeda6132b087eea8060"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "66d879b1a1cbb465a483225f"
+          },
+          "role": {
+            "$oid": "6660518048045a82babb8733"
+          },
+          "startDate": {
+            "$date": "2024-09-04T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-10-04T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "66d879b1a1cbb465a4832260"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-09-04T15:16:01.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:16:53.405Z"
+  },
+  "__v": 0,
+  "firstname": "BI IRIE JESIMIEL",
+  "lastLoginDate": {
+    "$date": "2024-09-04T15:16:53.382Z"
+  },
+  "lastname": "IRIE,",
+  "matricule": "017202Q"
+},
+{
+  "_id": {
+    "$oid": "66eae28fa1cbb465a483236c"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "KOUAMALAN@SODECI.CI",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "66a0eaeda6132b087eea8060"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a248fa1cbb465a48324d5"
+          },
+          "role": {
+            "$oid": "6660518048045a82babb8733"
+          },
+          "startDate": {
+            "$date": "2024-09-18T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-10-18T00:00:00.000Z"
+          }
+        },
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a248fa1cbb465a48324d6"
+          },
+          "role": {
+            "$oid": "6660518048045a82babb8733"
+          },
+          "startDate": {
+            "$date": "2024-11-23T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-05T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "671a248fa1cbb465a48324d7"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-09-18T14:24:15.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T10:42:23.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a21a2a1cbb465a48324bf"
+  },
+  "status": "removed",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "DAVABA@SODECI.CI",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "66a0eaeda6132b087eea8060"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a21a2a1cbb465a48324c0"
+          },
+          "role": {
+            "$oid": "6660518048045a82babb8733"
+          },
+          "startDate": {
+            "$date": "2024-11-30T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-05T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "671a21a2a1cbb465a48324c1"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T10:29:54.101Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T10:49:02.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2b9fa1cbb465a4832537"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "kaedja@sodeci.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "67128ebb129c1ee68c8aa903"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a3bcba1cbb465a483267b"
+          },
+          "role": {
+            "$oid": "66d8790cc3b413884adc011f"
+          },
+          "startDate": {
+            "$date": "2024-10-24T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-11-23T00:00:00.000Z"
+          }
+        },
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a3bcba1cbb465a483267c"
+          },
+          "role": {
+            "$oid": "66d8790cc3b413884adc011f"
+          },
+          "startDate": {
+            "$date": "2024-10-24T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-11-23T00:00:00.000Z"
+          }
+        },
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a3bcba1cbb465a483267d"
+          },
+          "role": {
+            "$oid": "66603c1e48045a82babb8726"
+          },
+          "startDate": {
+            "$date": "2024-10-24T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-11-23T00:00:00.000Z"
+          }
+        },
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "671a3bcba1cbb465a483267e"
+          },
+          "role": {
+            "$oid": "665e30875b73c2d79ad2ab8d"
+          },
+          "startDate": {
+            "$date": "2024-10-24T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2024-11-23T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "671a3bcba1cbb465a483267f"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T11:12:31.228Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:19:11.892Z"
+  },
+  "__v": 0,
+  "firstname": "KOFFI, ANGE EMMANUEL",
+  "lastLoginDate": {
+    "$date": "2024-10-25T11:19:11.881Z"
+  },
+  "lastname": "DJA",
+  "matricule": "018439F"
+},
+{
+  "_id": {
+    "$oid": "674d907d1f760b771fdcb549"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "serges.alla@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "67128ebb129c1ee68c8aa903"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "674d907d1f760b771fdcb54a"
+          },
+          "role": {
+            "$oid": "66d8790cc3b413884adc011f"
+          },
+          "startDate": {
+            "$date": "2024-12-02T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-01-01T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d907d1f760b771fdcb54b"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "createdAt": {
+    "$date": "2024-12-02T10:48:29.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:45:44.507Z"
+  },
+  "__v": 0,
+  "firstname": "SERGES ARMAND",
+  "lastLoginDate": {
+    "$date": "2024-12-12T09:45:44.497Z"
+  },
+  "lastname": "ALLA",
+  "matricule": "00879"
+},
+{
+  "_id": {
+    "$oid": "6798c1aa6c18288a7f91f8e2"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "sebastien.kouassi@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "$oid": "6798c17d0ad9402dac4143ea"
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": {
+            "$oid": "6798c1aa6c18288a7f91f8e3"
+          },
+          "role": {
+            "$oid": "6798c192b01e72ef4ea3383f"
+          },
+          "startDate": {
+            "$date": "2025-01-28T00:00:00.000Z"
+          },
+          "endDate": {
+            "$date": "2025-02-27T00:00:00.000Z"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6798c1aa6c18288a7f91f8e4"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:38:18.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:23:22.831Z"
+  },
+  "__v": 0,
+  "firstname": "Franck Sebastien",
+  "lastLoginDate": {
+    "$date": "2025-01-30T11:23:22.821Z"
+  },
+  "lastname": "KOUASSI",
+  "matricule": "00866"
+}]

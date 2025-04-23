@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "665e40418043facf8c1ac639"
+  },
+  "status": "active",
+  "name": "organisation 02",
+  "societe": "665e3109265bd82a4f6f763f",
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc8236"
+  },
+  "createdAt": {
+    "$date": "2024-06-03T22:14:25.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T22:14:25.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ae409337b979de81fab0e"
+  },
+  "status": "active",
+  "societe": "665e3109265bd82a4f6f763f",
+  "name": "DA",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-13T12:20:25.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T12:20:25.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0eaeda6132b087eea8060"
+  },
+  "status": "active",
+  "societe": "665e3109265bd82a4f6f763f",
+  "name": "SODECI",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:52:13.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:12:31.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67128ebb129c1ee68c8aa903"
+  },
+  "status": "active",
+  "name": "DAPSI",
+  "societe": "67128902129c1ee68c8aa8f1",
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T16:37:15.189Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:04:24.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2e77f64f905f848d3869"
+  },
+  "status": "active",
+  "societe": "67128902129c1ee68c8aa8f1",
+  "name": "Orga 1",
+  "user": {
+    "$oid": "671a2b9fa1cbb465a4832537"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T11:24:39.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:24:45.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c17d0ad9402dac4143ea"
+  },
+  "status": "active",
+  "societe": "6798c16d0ad9402dac4143d6",
+  "name": "Organisation 1",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:33.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:33.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c1870ad9402dac4143fb"
+  },
+  "status": "active",
+  "societe": "6798c16d0ad9402dac4143d6",
+  "name": "Organisation 2",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:43.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:43.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3729c0ad9402dac4144b9"
+  },
+  "status": "active",
+  "societe": "67a372910ad9402dac4144a0",
+  "name": "TEST",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:15:56.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:15:56.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3737f0ad9402dac4144d9"
+  },
+  "status": "active",
+  "societe": "67a372910ad9402dac4144a0",
+  "name": "zs",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:19:43.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:19:43.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a373a70ad9402dac414506"
+  },
+  "status": "active",
+  "societe": "67a372910ad9402dac4144a0",
+  "name": "test",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:20:23.287Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:20:23.287Z"
+  },
+  "__v": 0
+}]

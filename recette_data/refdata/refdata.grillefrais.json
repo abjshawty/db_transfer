@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "651c06e29a52b215df3c7d2d"
+  },
+  "codeCategorieAgent": "A",
+  "codeTypeFrais": 1,
+  "montant": 20500,
+  "createdAt": {
+    "$date": "2023-10-03T12:19:46.787Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T12:19:46.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c07089a52b215df3c7d31"
+  },
+  "codeCategorieAgent": "A",
+  "codeTypeFrais": 2,
+  "montant": 9500,
+  "createdAt": {
+    "$date": "2023-10-03T12:20:24.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T12:20:24.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c07289a52b215df3c7d35"
+  },
+  "codeCategorieAgent": "ACS",
+  "codeTypeFrais": 1,
+  "montant": 20500,
+  "createdAt": {
+    "$date": "2023-10-03T12:20:56.198Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T12:20:56.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c07479a52b215df3c7d39"
+  },
+  "codeCategorieAgent": "ACS",
+  "codeTypeFrais": 2,
+  "montant": 9500,
+  "createdAt": {
+    "$date": "2023-10-03T12:21:27.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T12:21:27.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ecb8bfe00cb498bdc9768"
+  },
+  "codeCategorieAgent": "E",
+  "codeTypeFrais": 1,
+  "montant": 12500,
+  "createdAt": {
+    "$date": "2023-10-05T14:43:23.176Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:43:23.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ecc62fe00cb498bdc976d"
+  },
+  "codeCategorieAgent": "E",
+  "codeTypeFrais": 2,
+  "montant": 3700,
+  "createdAt": {
+    "$date": "2023-10-05T14:46:58.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:46:58.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ecc85fe00cb498bdc9772"
+  },
+  "codeCategorieAgent": "M",
+  "codeTypeFrais": 1,
+  "montant": 15000,
+  "createdAt": {
+    "$date": "2023-10-05T14:47:33.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:47:33.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651eccaafe00cb498bdc9777"
+  },
+  "codeCategorieAgent": "M",
+  "codeTypeFrais": 2,
+  "montant": 4500,
+  "createdAt": {
+    "$date": "2023-10-05T14:48:10.645Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:48:10.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ecd83fe00cb498bdc977f"
+  },
+  "codeCategorieAgent": "O",
+  "codeTypeFrais": 1,
+  "montant": 12500,
+  "createdAt": {
+    "$date": "2023-10-05T14:51:47.061Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:51:47.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ecd9bfe00cb498bdc9784"
+  },
+  "codeCategorieAgent": "O",
+  "codeTypeFrais": 2,
+  "montant": 3700,
+  "createdAt": {
+    "$date": "2023-10-05T14:52:11.115Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:52:11.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a912cac6f2b359753570f2"
+  },
+  "codeCategorieAgent": "CAS",
+  "codeTypeFrais": 2,
+  "montant": 50000,
+  "createdAt": {
+    "$date": "2024-01-18T12:00:10.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T12:00:10.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2e5a1417f685def9aae3"
+  },
+  "codeCategorieAgent": "NVJF",
+  "codeTypeFrais": 2,
+  "montant": 450000,
+  "createdAt": {
+    "$date": "2024-03-11T16:16:26.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T16:16:26.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2f391417f685def9aafe"
+  },
+  "codeCategorieAgent": "E",
+  "codeTypeFrais": 2,
+  "montant": -48000,
+  "createdAt": {
+    "$date": "2024-03-11T16:20:09.614Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T16:20:09.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2f721417f685def9ab03"
+  },
+  "codeCategorieAgent": "CAS",
+  "codeTypeFrais": 2,
+  "montant": 0,
+  "createdAt": {
+    "$date": "2024-03-11T16:21:06.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T16:21:06.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2f7c1417f685def9ab08"
+  },
+  "codeCategorieAgent": "CA",
+  "codeTypeFrais": 2,
+  "montant": 0,
+  "createdAt": {
+    "$date": "2024-03-11T16:21:16.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T16:21:16.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2f8f1417f685def9ab10"
+  },
+  "codeCategorieAgent": "E",
+  "codeTypeFrais": 2,
+  "montant": 1,
+  "createdAt": {
+    "$date": "2024-03-11T16:21:35.618Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T16:21:35.618Z"
+  },
+  "__v": 0
+}]

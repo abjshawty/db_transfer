@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65153ecfa4ba4ba2a12fe897"
+  },
+  "codeTypeCarburant": "DIES",
+  "libelleTypeCarburant": "Diesel",
+  "createdAt": {
+    "$date": "2023-09-28T08:52:31.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T08:52:31.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65153efca4ba4ba2a12fe89a"
+  },
+  "codeTypeCarburant": "ESS",
+  "libelleTypeCarburant": "Essence",
+  "createdAt": {
+    "$date": "2023-09-28T08:53:16.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T08:53:16.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac09f4c6f2b3597535716b"
+  },
+  "codeTypeCarburant": "GAS",
+  "libelleTypeCarburant": "Gasoline",
+  "createdAt": {
+    "$date": "2024-01-20T17:59:16.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T17:59:16.741Z"
+  },
+  "__v": 0
+}]

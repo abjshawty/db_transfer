@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65ac0b97c6f2b3597535718f"
+  },
+  "codeTypeMission": "MIS1",
+  "libTypeMission": "MAINTENANCES",
+  "createdAt": {
+    "$date": "2024-01-20T18:06:15.103Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T18:06:15.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8769ede9a4f76b369317a"
+  },
+  "codeTypeMission": "et77z",
+  "libTypeMission": "MISSION DSI_SDz",
+  "createdAt": {
+    "$date": "2024-09-04T15:02:54.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:02:54.567Z"
+  },
+  "__v": 0
+}]

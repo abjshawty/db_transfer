@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d49"
+  },
+  "ability": [
+    {
+      "action": "manage",
+      "subject": "all"
+    }
+  ],
+  "status": "active",
+  "title": "Master",
+  "code": "master",
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-01T09:14:18.596Z"
+  },
+  "__v": 0
+}]

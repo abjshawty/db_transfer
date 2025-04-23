@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "665e30875b73c2d79ad2ab8d"
+  },
+  "name": "CAISSE",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-03T21:07:19.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:12:51.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66603c1e48045a82babb8726"
+  },
+  "name": "VALIDATEUR",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-05T10:21:18.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:13:10.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6660518048045a82babb8733"
+  },
+  "name": "ADMINISTRATEUR",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-05T11:52:32.144Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:21:16.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ae41648045a82babb8749"
+  },
+  "name": "DZ",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-13T12:20:38.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T12:20:42.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8790cc3b413884adc011f"
+  },
+  "name": "INJECTEUR",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-09-04T15:13:16.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:13:16.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2e95c3b413884adc01a0"
+  },
+  "name": "Rôle 1",
+  "status": "removed",
+  "user": {
+    "$oid": "671a2b9fa1cbb465a4832537"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T11:25:09.900Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:25:24.544Z"
+  },
+  "__v": 0
+}]

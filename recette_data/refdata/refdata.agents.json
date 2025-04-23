@@ -1,0 +1,1830 @@
+[{
+  "_id": {
+    "$oid": "651d4ccecc3c6f55fb65ab5d"
+  },
+  "matricule": "00655",
+  "nom": "BRAKOI",
+  "prenom": "JOEL",
+  "numCNPS": "CNPS_290465",
+  "localisation": "DRH CONSEIL",
+  "email": "brakoi@gs2e.ci",
+  "codeSociete": "00655",
+  "exploitation": "021000",
+  "adresse": "21233000",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "2024-01-18T00:07:10.565Z",
+  "telephone": "0757685242",
+  "nomReseau": "string",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-04T11:30:22.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T11:30:22.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9b9"
+  },
+  "matricule": "00025A",
+  "nom": "DJAGOUN",
+  "prenom": "GILLES",
+  "numCNPS": "CNPS_00025A",
+  "localisation": "SODECI",
+  "email": "DJAGOUN",
+  "codeSociete": "SODECI",
+  "exploitation": "AAE",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Nov 16 2021 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "DJAGOUN",
+  "codeCategorieAgent": "A",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.274Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9ba"
+  },
+  "matricule": "008191D",
+  "nom": "BENON",
+  "prenom": "CHRISTINE AIMEE",
+  "numCNPS": "CNPS_290465",
+  "localisation": "DSI GS2E",
+  "email": "ABENON@CIE.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "E80",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Mon Feb 16 2015 12:18:14 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "ABENON@CIE.CI",
+  "codeCategorieAgent": "A",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "sod",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.275Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9bb"
+  },
+  "matricule": "008D",
+  "nom": "KOFFI",
+  "prenom": "MATHIEU KOUAKOU",
+  "numCNPS": "CNPS_008D",
+  "localisation": "AAE",
+  "email": "KOFFI",
+  "codeSociete": "AAE",
+  "exploitation": "AAE",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "AdmiN",
+  "lastDate": "Mon Jul 19 2021 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KOFFI",
+  "codeCategorieAgent": "O",
+  "codeFonctionAgent": "AOEA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.275Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9bc"
+  },
+  "matricule": "010239*",
+  "nom": "AKA",
+  "prenom": "ALLOUA ELI",
+  "numCNPS": "CNPS_010239*",
+  "localisation": "SODECI",
+  "email": "AKA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0252",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Mon Jan 28 2013 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "AKA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.275Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9bd"
+  },
+  "matricule": "010248*",
+  "nom": "LOUGBO",
+  "prenom": "EDITHE",
+  "numCNPS": "CNPS_010249",
+  "localisation": "SODECI",
+  "email": "CORE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0249",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Dec 13 2013 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "CORE@SODECI.CI",
+  "codeCategorieAgent": "O",
+  "codeFonctionAgent": "AOEA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9be"
+  },
+  "matricule": "010350*",
+  "nom": "KOUAME",
+  "prenom": "KOUASI NESTOR",
+  "numCNPS": "CNPS_010350*",
+  "localisation": "SODECI",
+  "email": "NESTORE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0212",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Oct 04 2013 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "NESTORE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9bf"
+  },
+  "matricule": "010352*",
+  "nom": "KOUASSI",
+  "prenom": "Née KOFFI YAO N'GUESSAN CORINNE",
+  "numCNPS": "CNPS_10352*",
+  "localisation": "SODECI",
+  "email": "YAO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0248",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "ADMIN",
+  "lastDate": "Wed Mar 28 2007 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "YAO@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c0"
+  },
+  "matricule": "010454*",
+  "nom": "DIROHA",
+  "prenom": "EDWIGE",
+  "numCNPS": "CNPS_010454*",
+  "localisation": "SODECI",
+  "email": "DIROHA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5200",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Mon Apr 23 2012 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "DIROHA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c1"
+  },
+  "matricule": "010486*",
+  "nom": "FOFANA",
+  "prenom": "HOUATA",
+  "numCNPS": "CNPS_010486*",
+  "localisation": "SODECI",
+  "email": "FOFANA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5200",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Mon Apr 23 2012 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "FOFANA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c2"
+  },
+  "matricule": "010517*",
+  "nom": "GNOBO",
+  "prenom": "EPSE YAPO",
+  "numCNPS": "CNPS_010517*",
+  "localisation": "SODECI",
+  "email": "GNOBO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0212",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Aug 26 2014 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "GNOBO@SODECI.CI",
+  "codeCategorieAgent": "O",
+  "codeFonctionAgent": "AOEA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c3"
+  },
+  "matricule": "010550*",
+  "nom": "EHOUMAN ",
+  "prenom": "PIRRE ERIC MOULO",
+  "numCNPS": "CNPS_0110550*",
+  "localisation": "SODECI",
+  "email": "EHOUMAN@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "8013",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Nov 03 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "EHOUMAN@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Yam",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c4"
+  },
+  "matricule": "010576*",
+  "nom": "KOUASSI",
+  "prenom": "KOUASSI CHRISTIAN",
+  "numCNPS": "CNPS_010576*",
+  "localisation": "SODECI",
+  "email": "KOUASSI@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "230",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Thu Dec 15 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KOUASSI@SODECI.CI",
+  "codeCategorieAgent": "A",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c5"
+  },
+  "matricule": "010636*",
+  "nom": "KOUADIO",
+  "prenom": "AFFOUA KRA GERTRUDE",
+  "numCNPS": "CNPS_010636*",
+  "localisation": "SODECI",
+  "email": "KOUADIO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "248",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Oct 25 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KOUADIO@SODECI.CI",
+  "codeCategorieAgent": "O",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c6"
+  },
+  "matricule": "010648*",
+  "nom": "OUATTARA",
+  "prenom": "SARABANA",
+  "numCNPS": "CNPS_010648*",
+  "localisation": "SODECI",
+  "email": "OUATTARA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5003",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "OUATTARA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c7"
+  },
+  "matricule": "010655*",
+  "nom": "YOBOUE",
+  "prenom": "YAO AMEDE",
+  "numCNPS": "CNPS_010655*",
+  "localisation": "SODECI",
+  "email": "YOBOUE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5003",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "YOBOUE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c8"
+  },
+  "matricule": "010657*",
+  "nom": "COULIBALY",
+  "prenom": "MIBE SIBIRY",
+  "numCNPS": "CNPS_010657*",
+  "localisation": "SODECI",
+  "email": "COULIBALY@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5003",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "COULIBALY@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9c9"
+  },
+  "matricule": "010658*",
+  "nom": "SORO",
+  "prenom": "SOULEYMANE",
+  "numCNPS": "CNPS_010658*",
+  "localisation": "SODECI",
+  "email": "SORO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5003",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "SORO@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9ca"
+  },
+  "matricule": "010659*",
+  "nom": "N'ZEBOUA",
+  "prenom": "KOFFI FRANCIS",
+  "numCNPS": "CNPS_010659*",
+  "localisation": "SODECI",
+  "email": "N'ZEBOUA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "5003",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "N'ZEBOUA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Bok",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9cb"
+  },
+  "matricule": "010660*",
+  "nom": "AKA",
+  "prenom": "FRANCK GERMAIN",
+  "numCNPS": "CNPS_010660*",
+  "localisation": "SODECI",
+  "email": "AKA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "3045",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "AKA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Kor",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9cc"
+  },
+  "matricule": "010662*",
+  "nom": "GLIS",
+  "prenom": "OULAI PAUL",
+  "numCNPS": "CNPS_010662*",
+  "localisation": "SODECI",
+  "email": "GLIS@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "3022",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "GLIS@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Kor",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9cd"
+  },
+  "matricule": "010664*",
+  "nom": "FOFANA",
+  "prenom": "MOUSSA",
+  "numCNPS": "CNPS_010664*",
+  "localisation": "SODECI",
+  "email": "FOFANA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "3022",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "FOFANA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Kor",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9ce"
+  },
+  "matricule": "010665*",
+  "nom": "N'GUESSAN",
+  "prenom": "CONSTANT",
+  "numCNPS": "CNPS_010665*",
+  "localisation": "SODECI",
+  "email": "N'GUESSAN@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "3022",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "N'GUESSAN@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Kor",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9cf"
+  },
+  "matricule": "010666*",
+  "nom": "KONE",
+  "prenom": "WALOGO",
+  "numCNPS": "CNPS_010666*",
+  "localisation": "SODECI",
+  "email": "KONE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "3045",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Jul 21 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KONE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Kor",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d0"
+  },
+  "matricule": "010675*",
+  "nom": "KAKOU",
+  "prenom": "ROGER",
+  "numCNPS": "CNPS_010675*",
+  "localisation": "SODECI",
+  "email": "KAKOU@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "9200",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Mar 19 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KAKOU@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Man",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d1"
+  },
+  "matricule": "010682*",
+  "nom": "KOUOU",
+  "prenom": "ADJOUA RACHEL",
+  "numCNPS": "CNPS_010682*",
+  "localisation": "SODECI",
+  "email": "KOUTOU@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1135",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Thu Feb 03 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KOUTOU@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d2"
+  },
+  "matricule": "010684*",
+  "nom": "ASSI",
+  "prenom": "JEAN MICHEL",
+  "numCNPS": "CNPS_010684*",
+  "localisation": "SODECI",
+  "email": "NULL",
+  "codeSociete": "SODECI",
+  "exploitation": "NULL",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Thu Aug 19 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "pvakouadio@gs2e.ci",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d3"
+  },
+  "matricule": "010691*",
+  "nom": "KOFFI",
+  "prenom": "AMASSOUAMA",
+  "numCNPS": "CNPS_010691*",
+  "localisation": "SODECI",
+  "email": "KOFFI@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0204",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Aug 26 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KOFFI@SODECI.CI",
+  "codeCategorieAgent": "O",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d4"
+  },
+  "matricule": "010692*",
+  "nom": "KOUAKOU",
+  "prenom": "GOUETY VICTOIRE",
+  "numCNPS": "CNPS_010692*",
+  "localisation": "SODECI",
+  "email": "NULL",
+  "codeSociete": "SODECI",
+  "exploitation": "0201",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Wed Dec 30 2009 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "pvakouadio@gs2e.ci",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d5"
+  },
+  "matricule": "010693*",
+  "nom": "KASSI ",
+  "prenom": "ROSE",
+  "numCNPS": "CNPS_3888E",
+  "localisation": "SODECI",
+  "email": "KASSI@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1130",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "ADMIN",
+  "lastDate": "Sun Jul 23 2006 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KASSI@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d6"
+  },
+  "matricule": "010694*",
+  "nom": "ZOBO",
+  "prenom": "BALEGUHE FREDIRIQUE",
+  "numCNPS": "CNPS_010694*",
+  "localisation": "SODEC",
+  "email": "ZOBO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0213",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Thu Feb 03 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "ZOBO@SODECI.CI",
+  "codeCategorieAgent": "A",
+  "codeFonctionAgent": "SD",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d7"
+  },
+  "matricule": "010695*",
+  "nom": "DIALLO",
+  "prenom": "MARIAME",
+  "numCNPS": "CNPS_010695*",
+  "localisation": "SODECI",
+  "email": "DIALLO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "0236",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Thu Feb 03 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "DIALLO@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.283Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d8"
+  },
+  "matricule": "010696*",
+  "nom": "DJOURTHE",
+  "prenom": "OUSMANE",
+  "numCNPS": "CNPS_010696*",
+  "localisation": "SODECI",
+  "email": "DJOURTHE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1138",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "DJOURTHE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.283Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9d9"
+  },
+  "matricule": "010697*",
+  "nom": "GUEYE",
+  "prenom": "ROBERT",
+  "numCNPS": "CNPS_010697*",
+  "localisation": "SODECI",
+  "email": "GUEYE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1192",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "GUEYE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9da"
+  },
+  "matricule": "010698*",
+  "nom": "KRA",
+  "prenom": "MARIUS",
+  "numCNPS": "CNPS_010698*",
+  "localisation": "SODECI",
+  "email": "NULL",
+  "codeSociete": "SODECI",
+  "exploitation": "NULL",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Oct 01 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "pvakouadio@gs2e.ci",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9db"
+  },
+  "matricule": "010699*",
+  "nom": "ALLAH",
+  "prenom": "KOFFI",
+  "numCNPS": "CNPS_010699*",
+  "localisation": "SODECI",
+  "email": "ALLAH@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "NULL",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Wed Jun 02 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "ALLAH@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9dc"
+  },
+  "matricule": "010701*",
+  "nom": "BOKA",
+  "prenom": "BERTIN",
+  "numCNPS": "CNPS_2543L",
+  "localisation": "SODECI",
+  "email": "BBOKA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "232",
+  "adresse": "21233000",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Mon Jun 20 2005 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "BBOKA@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9dd"
+  },
+  "matricule": "010702*",
+  "nom": "YAO",
+  "prenom": "OKOU ERIC",
+  "numCNPS": "CNPS_010702*",
+  "localisation": "SODECI",
+  "email": "YAO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "252",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Tue Feb 16 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "YAO@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9de"
+  },
+  "matricule": "010705*",
+  "nom": "N'ZEBO",
+  "prenom": "KOFFI ALAIN CESAR",
+  "numCNPS": "CNPS_010705*",
+  "localisation": "SODECI",
+  "email": "N'ZEBO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1132",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "N'ZEBO@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9df"
+  },
+  "matricule": "010706*",
+  "nom": "BAMBA",
+  "prenom": "VAZOUMANA",
+  "numCNPS": "CNPS_010706*",
+  "localisation": "SODECI",
+  "email": "BAMBA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "2010",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "BAMBA@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Gag",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e0"
+  },
+  "matricule": "010707*",
+  "nom": "BAMBA",
+  "prenom": "MAHAMANE",
+  "numCNPS": "CNPS_010707*",
+  "localisation": "SODECI",
+  "email": "BAMBA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1136",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "BAMBA@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e1"
+  },
+  "matricule": "010708*",
+  "nom": "KOUADIO",
+  "prenom": "KONAN",
+  "numCNPS": "CNPS_010708*",
+  "localisation": "SODECI",
+  "email": "KOUADIO@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1138",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "KOUADIO@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e2"
+  },
+  "matricule": "010709*",
+  "nom": "OULAI",
+  "prenom": "KAMONNOU GUY PATRICK",
+  "numCNPS": "CNPS_010709*",
+  "localisation": "SODECI",
+  "email": "OULAI@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "2046",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "OULAI@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Gag",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e3"
+  },
+  "matricule": "010711*",
+  "nom": "POUPOIN",
+  "prenom": "KOUA ALAIN",
+  "numCNPS": "CNPS_0110711*",
+  "localisation": "SODECI",
+  "email": "POUPOIN@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1135",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Sun Feb 04 2001 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "POUPOIN@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e4"
+  },
+  "matricule": "010712*",
+  "nom": "ZIKE",
+  "prenom": "OSCAR",
+  "numCNPS": "CNPS_010712*",
+  "localisation": "SODECI",
+  "email": "ZIKE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "7200",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Mar 19 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "ZIKE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abe",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e5"
+  },
+  "matricule": "010713*",
+  "nom": "AKPALE",
+  "prenom": "LANDRY MARTIAL",
+  "numCNPS": "CNPS_010713*",
+  "localisation": "SODECI",
+  "email": "AKPALE@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1131",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Thu Jul 01 2010 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "AKPALE@SODECI.CI",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AMA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e75e5cc3c6f55fb65b9e6"
+  },
+  "matricule": "010714*",
+  "nom": "DJA",
+  "prenom": "BI TRA GHISLAIN",
+  "numCNPS": "CNPS_010714*",
+  "localisation": "SODECI",
+  "email": "DJA@SODECI.CI",
+  "codeSociete": "SODECI",
+  "exploitation": "1132",
+  "adresse": "NULL",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "Fri Feb 04 2011 00:00:00 GMT+0000 (Greenwich Mean Time)",
+  "telephone": "NULL",
+  "nomReseau": "DJA@SODECI.CI",
+  "codeCategorieAgent": "E",
+  "codeFonctionAgent": "AOEI",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T08:37:57.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T08:37:57.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e9370cc3c6f55fb65bc50"
+  },
+  "matricule": "Consultant",
+  "nom": "AGBO",
+  "prenom": "N'ZI NIAMIEN AKALA JUDD EPSE EGNAKOU",
+  "numCNPS": "CNPS_290465",
+  "localisation": "QUANTINNUM EA",
+  "email": "Nzi.agbo@gs2e.ci",
+  "codeSociete": "Nzi.agbo@gs2e.ci",
+  "exploitation": "021000",
+  "adresse": "21233000",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "2023-05-25T01:45:13.438Z",
+  "telephone": "0709480428",
+  "nomReseau": "string",
+  "codeCategorieAgent": "A",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-05T10:44:00.231Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T10:44:00.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fee625d9287acb3f5c3ef"
+  },
+  "matricule": "6178G",
+  "nom": "KOUASSI",
+  "prenom": "BI ZOUBLE",
+  "numCNPS": "CNPS_6178G",
+  "localisation": "QUANTINNUM EA",
+  "email": "Nzi.agbo@gs2e.ci",
+  "codeSociete": "Nzi.agbo@gs2e.ci",
+  "exploitation": "021000",
+  "adresse": "21233000",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "2023-05-25T01:45:13.438Z",
+  "telephone": "0709480428",
+  "nomReseau": "string",
+  "codeCategorieAgent": "",
+  "codeFonctionAgent": "",
+  "codeZoneIntervention": "",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-06T11:24:18.377Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T11:24:18.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527d8e85d9287acb3f5c88e"
+  },
+  "matricule": "018439F",
+  "nom": "DJA",
+  "prenom": "Emmanuel",
+  "numCNPS": "1234567890",
+  "localisation": "Siège",
+  "email": "kaedja@sodeci.ci",
+  "codeSociete": "SODECI",
+  "exploitation": "0373",
+  "adresse": "12BP765",
+  "codeStatu": "",
+  "lastUser": "Admin",
+  "lastDate": "2023-10-12T11:30:48.775Z",
+  "telephone": "+2250505420363",
+  "nomReseau": "",
+  "codeCategorieAgent": "CA",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2023-10-12T11:30:48.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T11:30:48.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a86b1bc6f2b359753570b4"
+  },
+  "matricule": "00819",
+  "nom": "Akmel Kefa",
+  "prenom": "Aurore",
+  "numCNPS": "123456789",
+  "localisation": "Abidjan",
+  "email": "kefa.akmel@gs2e.ci",
+  "codeSociete": "00621",
+  "exploitation": "624",
+  "adresse": "Abidjan",
+  "codeStatu": "1",
+  "lastUser": "Admin",
+  "lastDate": "2024-01-18T00:04:42.883Z",
+  "telephone": "0700898502",
+  "nomReseau": "TEST1",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AEA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-01-18T00:04:43.142Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T00:04:43.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2424170a5eb2a1b239ad"
+  },
+  "matricule": "0155",
+  "nom": "ROK123",
+  "prenom": "tano",
+  "numCNPS": "21",
+  "localisation": "ANGRE",
+  "email": "DGTANO@gs2e.ci",
+  "codeSociete": "0155",
+  "exploitation": "DAPSI",
+  "adresse": "SIEGE",
+  "codeStatu": "01",
+  "lastUser": "Admin",
+  "lastDate": "2024-03-11T16:14:39.190Z",
+  "telephone": "0877064064",
+  "nomReseau": "RESEAU",
+  "codeCategorieAgent": "K5",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-03-11T15:32:52.891Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T15:32:52.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601811f1417f685def9aced"
+  },
+  "matricule": "00345612",
+  "nom": "BABA",
+  "prenom": "jose",
+  "numCNPS": "CNPS_250765",
+  "localisation": "DRH CONSEIL",
+  "email": "baba@gmail.com",
+  "codeSociete": "00345612",
+  "exploitation": "021000",
+  "adresse": "abata",
+  "codeStatu": "",
+  "lastUser": "Admin",
+  "lastDate": "2024-03-25T13:50:27.472Z",
+  "telephone": "0757685242",
+  "nomReseau": "M",
+  "codeCategorieAgent": "CA",
+  "codeFonctionAgent": "ADR",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-03-25T13:50:23.996Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-25T13:50:23.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660182d41417f685def9ad05"
+  },
+  "matricule": "009654",
+  "nom": "brou",
+  "prenom": "ebrottier",
+  "numCNPS": "S34FRT",
+  "localisation": "SODECI",
+  "email": "brougmail.com",
+  "codeSociete": "556",
+  "exploitation": "004536",
+  "adresse": "Abatta village apres la gare de woro woro",
+  "codeStatu": "#FREZFRT",
+  "lastUser": "Admin",
+  "lastDate": "2024-03-25T13:57:44.480Z",
+  "telephone": "0757685242",
+  "nomReseau": "M",
+  "codeCategorieAgent": "CAS",
+  "codeFonctionAgent": "ADG",
+  "codeZoneIntervention": "ADI",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-03-25T13:57:40.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-25T13:57:40.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e03115de9a4f76b3693206"
+  },
+  "matricule": "8237L",
+  "nom": "ZEZE",
+  "prenom": "THIERRY ALAIN KEVIN",
+  "numCNPS": "",
+  "localisation": "",
+  "email": "ALAIN.ZEZE@SODECI.CI",
+  "codeSociete": "",
+  "exploitation": "0210",
+  "adresse": "",
+  "codeStatu": "",
+  "lastUser": "Admin",
+  "lastDate": "2024-09-10T11:44:21.683Z",
+  "telephone": "",
+  "nomReseau": "",
+  "codeCategorieAgent": "CA",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-09-10T11:44:21.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T11:44:21.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e03327de9a4f76b36932c6"
+  },
+  "matricule": "6650K",
+  "nom": "MALAN ",
+  "prenom": "KOUADIO ANGE SILVA",
+  "numCNPS": "",
+  "localisation": "",
+  "email": "KOUAMALN@SODECI.CI",
+  "codeSociete": "",
+  "exploitation": "0210",
+  "adresse": "",
+  "codeStatu": "",
+  "lastUser": "Admin",
+  "lastDate": "2024-09-10T11:53:11.638Z",
+  "telephone": "",
+  "nomReseau": "",
+  "codeCategorieAgent": "CA",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-09-10T11:53:11.655Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-10T11:53:11.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a295f8591b3512173f637"
+  },
+  "matricule": "6650K",
+  "nom": "MALAN",
+  "prenom": "KOUADIO ANGE SILVA",
+  "numCNPS": "",
+  "localisation": "SIEGE",
+  "email": "kouamalan@sodeci.ci",
+  "codeSociete": "SODECI",
+  "exploitation": "0210",
+  "adresse": "ABJ",
+  "codeStatu": "",
+  "lastUser": "Admin",
+  "lastDate": "2024-10-24T11:02:54.946Z",
+  "telephone": "0747444522",
+  "nomReseau": "",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AZE",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-10-24T11:02:55.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:02:55.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2a0c8591b3512173f63c"
+  },
+  "matricule": "0012345",
+  "nom": "ROGER",
+  "prenom": "KANGAH",
+  "numCNPS": "125436524",
+  "localisation": "ABJ",
+  "email": "A@SODECI.CI",
+  "codeSociete": "SOD",
+  "exploitation": "0210",
+  "adresse": "0102603726",
+  "codeStatu": "001",
+  "lastUser": "Admin",
+  "lastDate": "2024-10-24T11:05:48.394Z",
+  "telephone": "0102603726",
+  "nomReseau": "UNIVERS",
+  "codeCategorieAgent": "M",
+  "codeFonctionAgent": "AZE",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-10-24T11:05:48.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:05:48.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674eca3f8a1776d2f7c1d8ed"
+  },
+  "matricule": "00879",
+  "nom": "ALLA",
+  "prenom": "SERGE",
+  "numCNPS": "CNPS 256366*",
+  "localisation": "ABJ",
+  "email": "serges.alla@gs2e.ci",
+  "codeSociete": "00002",
+  "exploitation": "DAPSI",
+  "adresse": "ABJ YOP",
+  "codeStatu": "AF",
+  "lastUser": "Admin",
+  "lastDate": "2024-12-03T09:07:11.224Z",
+  "telephone": "24525566",
+  "nomReseau": "ok",
+  "codeCategorieAgent": "CA",
+  "codeFonctionAgent": "ACA",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2024-12-03T09:07:11.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-03T09:07:11.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0ccc308e05e208a402fd3"
+  },
+  "matricule": "05874",
+  "nom": "ALI",
+  "prenom": "KOKO",
+  "numCNPS": "8741",
+  "localisation": "ABOBO",
+  "email": "K@gmail.com",
+  "codeSociete": "01",
+  "exploitation": "E10",
+  "adresse": "D",
+  "codeStatu": "01",
+  "lastUser": "Admin",
+  "lastDate": "2025-02-03T14:03:46.977Z",
+  "telephone": "0707070707",
+  "nomReseau": "",
+  "codeCategorieAgent": "CA",
+  "codeFonctionAgent": "ADG",
+  "codeZoneIntervention": "Abj",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2025-02-03T14:03:47.076Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T14:03:47.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3919008e05e208a40333a"
+  },
+  "matricule": "573",
+  "nom": "TOTOLIO",
+  "prenom": "TOTOLIO",
+  "numCNPS": "778",
+  "localisation": "838",
+  "email": "t@gmail.com",
+  "codeSociete": "573",
+  "exploitation": "",
+  "adresse": "",
+  "codeStatu": "",
+  "lastUser": "Admin",
+  "lastDate": "2025-02-05T16:28:31.200Z",
+  "telephone": "",
+  "nomReseau": "",
+  "codeCategorieAgent": "S",
+  "codeFonctionAgent": "AEA",
+  "codeZoneIntervention": "ABDE",
+  "isResponsableCI": false,
+  "createdAt": {
+    "$date": "2025-02-05T16:28:00.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T16:28:00.243Z"
+  },
+  "__v": 0
+}]

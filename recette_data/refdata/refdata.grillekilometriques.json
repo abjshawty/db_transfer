@@ -1,0 +1,855 @@
+[{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c355"
+  },
+  "codeFonction": "ACI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.965Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.965Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c357"
+  },
+  "codeFonction": "ACI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 122,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.979Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c359"
+  },
+  "codeFonction": "ADG",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.983Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c35b"
+  },
+  "codeFonction": "ADG",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c35d"
+  },
+  "codeFonction": "ADR",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 116,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c35f"
+  },
+  "codeFonction": "ADR",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 120,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67b5d9287acb3f5c361"
+  },
+  "codeFonction": "AEA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 101,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:35.996Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:35.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c363"
+  },
+  "codeFonction": "AEA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 109,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c365"
+  },
+  "codeFonction": "AEI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c367"
+  },
+  "codeFonction": "AEI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c369"
+  },
+  "codeFonction": "AGR",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c36b"
+  },
+  "codeFonction": "AMA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 1,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c36d"
+  },
+  "codeFonction": "AMA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c36f"
+  },
+  "codeFonction": "ATA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 101,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.018Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c371"
+  },
+  "codeFonction": "ATA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 109,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.022Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c373"
+  },
+  "codeFonction": "ATI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c375"
+  },
+  "codeFonction": "ATI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.031Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c377"
+  },
+  "codeFonction": "CEA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 101,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c379"
+  },
+  "codeFonction": "CEA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 109,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.038Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c37b"
+  },
+  "codeFonction": "CEI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c37d"
+  },
+  "codeFonction": "CEI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c37f"
+  },
+  "codeFonction": "CHA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 101,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.046Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c381"
+  },
+  "codeFonction": "CHA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 109,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.049Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c383"
+  },
+  "codeFonction": "CHI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.051Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c385"
+  },
+  "codeFonction": "CHI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.053Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c387"
+  },
+  "codeFonction": "CONT",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.055Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c389"
+  },
+  "codeFonction": "CPA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 101,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c38b"
+  },
+  "codeFonction": "CPA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 109,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.061Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c38d"
+  },
+  "codeFonction": "CPI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.063Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c38f"
+  },
+  "codeFonction": "CPI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.065Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c391"
+  },
+  "codeFonction": "DA",
+  "codeTypeCarburant": "DIE ",
+  "valeurTauxKm": 123,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c393"
+  },
+  "codeFonction": "DA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 131,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c395"
+  },
+  "codeFonction": "DC",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 123,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.072Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c397"
+  },
+  "codeFonction": "DC",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.076Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c399"
+  },
+  "codeFonction": "DG",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.079Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c39b"
+  },
+  "codeFonction": "DG",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.082Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c39d"
+  },
+  "codeFonction": "DRA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 117,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.084Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c39f"
+  },
+  "codeFonction": "DRA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.086Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3a1"
+  },
+  "codeFonction": "DRI",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 130,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3a3"
+  },
+  "codeFonction": "DRI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 144,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.090Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3a5"
+  },
+  "codeFonction": "ENQ",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3a7"
+  },
+  "codeFonction": "INFD",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 108,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.094Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3a9"
+  },
+  "codeFonction": "RAA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 116,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.096Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3ab"
+  },
+  "codeFonction": "RAI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.098Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3ad"
+  },
+  "codeFonction": "RCA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 116,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.101Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3af"
+  },
+  "codeFonction": "RCI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 115,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.104Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3b1"
+  },
+  "codeFonction": "SD",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 109,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.107Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fe67c5d9287acb3f5c3b3"
+  },
+  "codeFonction": "SD",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 120,
+  "createdAt": {
+    "$date": "2023-10-06T10:50:36.109Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T10:50:36.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac08e0c6f2b35975357157"
+  },
+  "codeFonction": "ACI",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": 6000,
+  "createdAt": {
+    "$date": "2024-01-20T17:54:40.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T17:54:40.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba333ec6f2b3597535728a"
+  },
+  "codeFonction": "ACA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 20,
+  "createdAt": {
+    "$date": "2024-01-31T11:47:10.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-31T11:47:10.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a309e8591b3512173f685"
+  },
+  "codeFonction": "ADR",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": -2,
+  "createdAt": {
+    "$date": "2024-10-24T11:33:50.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:33:50.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a76858591b3512173f8d0"
+  },
+  "codeFonction": "ACA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": -500,
+  "createdAt": {
+    "$date": "2024-10-24T16:32:05.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T16:32:05.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67581d678a1776d2f7c1db34"
+  },
+  "codeFonction": "AZE",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": -400,
+  "createdAt": {
+    "$date": "2024-12-10T10:52:23.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T10:52:23.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ab8f88a1776d2f7c1dbaa"
+  },
+  "codeFonction": "AZE",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": -807,
+  "createdAt": {
+    "$date": "2024-12-12T10:20:40.361Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T10:20:40.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6784d7078a1776d2f7c1dd77"
+  },
+  "codeFonction": "ACA",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": -40,
+  "createdAt": {
+    "$date": "2025-01-13T09:04:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-13T09:04:07.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3479c08e05e208a403146"
+  },
+  "codeFonction": "ACA",
+  "codeTypeCarburant": "DIES",
+  "valeurTauxKm": 20,
+  "createdAt": {
+    "$date": "2025-02-05T11:12:28.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T11:12:28.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a347a508e05e208a40314b"
+  },
+  "codeFonction": "ADG",
+  "codeTypeCarburant": "ESS",
+  "valeurTauxKm": -50,
+  "createdAt": {
+    "$date": "2025-02-05T11:12:37.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T11:12:37.659Z"
+  },
+  "__v": 0
+}]

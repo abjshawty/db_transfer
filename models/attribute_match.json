@@ -4,6 +4,11 @@
         "codeact": "code",
         "libact": "libelle"
     },
+    "activitecis": {
+        "_id": "id",
+        "codeci": "codeCentreImputation",
+        "codeact": "codeActivite"
+    },
     "agents": {
         "_id": "id",
         "matricule": "matricule",

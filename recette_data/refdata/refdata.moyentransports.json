@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65149c2da4ba4ba2a12fe86b"
+  },
+  "codeMoyenTransport": "TRTCOM",
+  "libelleMoyenTransport": "Transport en communs",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65149c5ca4ba4ba2a12fe86e"
+  },
+  "codeMoyenTransport": "VEHCON",
+  "libelleMoyenTransport": "Véhicule sous contrat",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8a01cc3c6f55fb65bbdc"
+  },
+  "codeMoyenTransport": "VEHFLOT",
+  "libelleMoyenTransport": "Véhicule  flotte",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a30f08591b3512173f68c"
+  },
+  "codeMoyenTransport": "Z",
+  "libelleMoyenTransport": "test",
+  "__v": 0
+}]

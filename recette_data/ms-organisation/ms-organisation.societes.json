@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6798c16d0ad9402dac4143d6"
+  },
+  "name": "SODECI",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:17.842Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:15:39.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a0cb370ad9402dac414420"
+  },
+  "name": "hgf",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-03T13:57:11.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-03T13:57:11.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3713e0ad9402dac414445"
+  },
+  "name": "CIE",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:10:06.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:10:06.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "name": "CIE1",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:15:45.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:15:45.615Z"
+  },
+  "__v": 0
+}]

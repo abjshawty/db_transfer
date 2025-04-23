@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "665e3123265bd82a4f6f764e"
+  },
+  "slug": "ORG-240603-d82a4f6f764f-001",
+  "name": "organisation 01",
+  "code": "1258AR",
+  "status": "removed",
+  "societe": {
+    "$oid": "665e3109265bd82a4f6f763f"
+  },
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc8236"
+  },
+  "createdAt": {
+    "$date": "2024-06-03T21:09:55.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:12:38.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e40418043facf8c1ac639"
+  },
+  "slug": "ORG-240603-facf8c1ac63a-002",
+  "name": "organisation 02",
+  "code": "1258BR",
+  "status": "removed",
+  "societe": {
+    "$oid": "665e3109265bd82a4f6f763f"
+  },
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc8236"
+  },
+  "createdAt": {
+    "$date": "2024-06-03T22:14:25.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:12:35.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ae409337b979de81fab0e"
+  },
+  "slug": "ORG-240613-979de81fab0f-003",
+  "name": "DA",
+  "status": "removed",
+  "societe": {
+    "$oid": "665e3109265bd82a4f6f763f"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-13T12:20:25.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T12:20:32.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a0eaeda6132b087eea8060"
+  },
+  "slug": "ORG-240724-2b087eea8061-004",
+  "name": "SODECI",
+  "status": "removed",
+  "societe": {
+    "$oid": "665e3109265bd82a4f6f763f"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-07-24T11:52:13.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:21:31.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67128ebb129c1ee68c8aa903"
+  },
+  "slug": "ORG-241018-1ee68c8aa904-005",
+  "name": "DAPSI",
+  "code": "1258ARd222",
+  "status": "active",
+  "societe": {
+    "$oid": "67128902129c1ee68c8aa8f1"
+  },
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T16:37:15.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:04:24.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2e77f64f905f848d3869"
+  },
+  "slug": "ORG-241024-905f848d386a-006",
+  "name": "Orga 1",
+  "status": "active",
+  "societe": {
+    "$oid": "67128902129c1ee68c8aa8f1"
+  },
+  "user": {
+    "$oid": "671a2b9fa1cbb465a4832537"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T11:24:39.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:24:45.352Z"
+  },
+  "__v": 0
+}]

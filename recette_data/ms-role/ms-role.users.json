@@ -1,0 +1,278 @@
+[{
+  "_id": {
+    "$oid": "674d907d1f760b771fdcb549"
+  },
+  "email": "serges.alla@gs2e.ci",
+  "lastname": "ALLA",
+  "firstname": "SERGES ARMAND",
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "status": "active",
+        "_id": "67128ebb129c1ee68c8aa903",
+        "name": "DAPSI",
+        "societe": "67128902129c1ee68c8aa8f1",
+        "user": "665e1a8a0f884630a3dc823a",
+        "createdAt": "2024-10-18T16:37:15.189Z",
+        "updatedAt": "2024-11-13T12:04:24.897Z",
+        "__v": 0
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": "674d907d1f760b771fdcb54a",
+          "role": {
+            "status": "active",
+            "_id": "66d8790cc3b413884adc011f",
+            "name": "INJECTEUR",
+            "user": "666037a70f884630a3dc83f1",
+            "createdAt": "2024-09-04T15:13:16.435Z",
+            "updatedAt": "2024-09-04T15:13:16.435Z",
+            "__v": 0
+          },
+          "startDate": "2024-12-02T00:00:00.000Z",
+          "endDate": "2025-01-01T00:00:00.000Z"
+        }
+      ],
+      "_id": "674d907d1f760b771fdcb54b"
+    }
+  ],
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "createdAt": {
+    "$date": "2024-12-02T10:48:29.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T09:45:44.549Z"
+  },
+  "__v": 0,
+  "lastLoginDate": {
+    "$date": "2024-12-10T08:40:28.909Z"
+  },
+  "matricule": "00879"
+},
+{
+  "_id": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "email": "roger.kangah@gs2e.ci",
+  "lastname": "KANGAH",
+  "firstname": "ROGER",
+  "matricule": "023563M",
+  "lastLoginDate": {
+    "$date": "2025-02-05T07:35:46.219Z"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "status": "active",
+        "_id": "665e40418043facf8c1ac639",
+        "name": "organisation 02",
+        "societe": "665e3109265bd82a4f6f763f",
+        "user": "665e1a8a0f884630a3dc8236",
+        "createdAt": "2024-06-03T22:14:25.370Z",
+        "updatedAt": "2024-06-03T22:14:25.370Z",
+        "__v": 0
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": "666037a70f884630a3dc83f2",
+          "role": {
+            "status": "active",
+            "_id": "665e30875b73c2d79ad2ab8d",
+            "name": "CAISSE",
+            "user": "666037a70f884630a3dc83f1",
+            "createdAt": "2024-06-03T21:07:19.138Z",
+            "updatedAt": "2024-09-04T15:12:51.750Z",
+            "__v": 0
+          },
+          "startDate": "2025-06-06T00:00:00.000Z",
+          "endDate": "2025-07-25T00:00:00.000Z"
+        }
+      ],
+      "_id": "666037a70f884630a3dc83f3"
+    }
+  ],
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "createdAt": {
+    "$date": "2024-06-05T10:02:15.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:13:38.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "email": "jbrakoi@gs2e.ci",
+  "lastname": "BRAKOI,",
+  "firstname": "JOEL",
+  "matricule": "00655",
+  "lastLoginDate": {
+    "$date": "2025-01-06T10:48:47.868Z"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "status": "active",
+        "_id": "67128ebb129c1ee68c8aa903",
+        "name": "DAPSI",
+        "societe": "67128902129c1ee68c8aa8f1",
+        "user": "665e1a8a0f884630a3dc823a",
+        "createdAt": "2024-10-18T16:37:15.189Z",
+        "updatedAt": "2024-11-13T12:04:24.897Z",
+        "__v": 0
+      },
+      "roles": [
+        {
+          "status": "expired",
+          "_id": "673495ee59c4a7146258864d",
+          "role": {
+            "status": "active",
+            "_id": "665e30875b73c2d79ad2ab8d",
+            "name": "CAISSE",
+            "user": "666037a70f884630a3dc83f1",
+            "createdAt": "2024-06-03T21:07:19.138Z",
+            "updatedAt": "2024-09-04T15:12:51.750Z",
+            "__v": 0
+          },
+          "startDate": "2023-12-01T00:00:00.000Z",
+          "endDate": "2025-01-01T00:00:00.000Z"
+        }
+      ],
+      "_id": "673495ee59c4a7146258864e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T09:38:47.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665e1a8a0f884630a3dc8237"
+  },
+  "email": "brice.gnazale@gs2e.ci",
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "status": "active",
+        "_id": "665e40418043facf8c1ac639",
+        "name": "organisation 02",
+        "societe": "665e3109265bd82a4f6f763f",
+        "user": "665e1a8a0f884630a3dc8236",
+        "createdAt": "2024-06-03T22:14:25.370Z",
+        "updatedAt": "2024-06-03T22:14:25.370Z",
+        "__v": 0
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": "6798c11b6c18288a7f91f8b5",
+          "role": {
+            "status": "active",
+            "_id": "665e30875b73c2d79ad2ab8d",
+            "name": "CAISSE",
+            "user": "666037a70f884630a3dc83f1",
+            "createdAt": "2024-06-03T21:07:19.138Z",
+            "updatedAt": "2024-09-04T15:12:51.750Z",
+            "__v": 0
+          },
+          "startDate": "2023-12-01T00:00:00.000Z",
+          "endDate": "2025-01-01T00:00:00.000Z"
+        }
+      ],
+      "_id": "6798c11b6c18288a7f91f8b6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T19:33:30.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c1aa6c18288a7f91f8e2"
+  },
+  "email": "sebastien.kouassi@gs2e.ci",
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "profile": [
+    {
+      "isDefault": false,
+      "organisation": {
+        "status": "active",
+        "_id": "6798c17d0ad9402dac4143ea",
+        "societe": "6798c16d0ad9402dac4143d6",
+        "name": "Organisation 1",
+        "user": "666037a70f884630a3dc83f1",
+        "createdAt": "2025-01-28T11:37:33.980Z",
+        "updatedAt": "2025-01-28T11:37:33.980Z",
+        "__v": 0
+      },
+      "roles": [
+        {
+          "status": "active",
+          "_id": "6798c1aa6c18288a7f91f8e3",
+          "role": {
+            "status": "active",
+            "_id": "6798c192b01e72ef4ea3383f",
+            "name": "USERS",
+            "user": "666037a70f884630a3dc83f1",
+            "createdAt": "2025-01-28T11:37:54.602Z",
+            "updatedAt": "2025-01-28T11:37:54.602Z",
+            "__v": 0
+          },
+          "startDate": "2025-01-28T00:00:00.000Z",
+          "endDate": "2025-02-27T00:00:00.000Z"
+        }
+      ],
+      "_id": "6798c1aa6c18288a7f91f8e4"
+    }
+  ],
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:38:18.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-30T11:23:22.841Z"
+  },
+  "__v": 0,
+  "firstname": "Franck Sebastien",
+  "lastname": "KOUASSI",
+  "lastLoginDate": {
+    "$date": "2025-01-30T11:23:19.217Z"
+  },
+  "matricule": "00866"
+}]

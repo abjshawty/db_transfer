@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "665e3109265bd82a4f6f763f"
+  },
+  "slug": "SOC-240603-d82a4f6f7640-001",
+  "name": "SODECI",
+  "code": "123",
+  "status": "removed",
+  "user": {
+    "$oid": "671a2b9fa1cbb465a4832537"
+  },
+  "createdAt": {
+    "$date": "2024-06-03T21:09:29.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:21:41.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ae3f5337b979de81faae4"
+  },
+  "slug": "SOC-240613-979de81faae5-002",
+  "name": "TEST2VD",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-13T12:20:05.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-13T12:20:14.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8773bbec780c2ceefc725"
+  },
+  "slug": "SOC-240904-80c2ceefc726-003",
+  "name": "DFC",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-09-04T15:05:31.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:08:37.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67128902129c1ee68c8aa8f1"
+  },
+  "slug": "SOC-241018-1ee68c8aa8f2-004",
+  "name": "TEST1",
+  "code": "12309876",
+  "status": "active",
+  "user": {
+    "$oid": "6712801b97a5c4fe07d9122f"
+  },
+  "createdAt": {
+    "$date": "2024-10-18T16:12:50.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T16:12:51.079Z"
+  },
+  "__v": 0
+}]

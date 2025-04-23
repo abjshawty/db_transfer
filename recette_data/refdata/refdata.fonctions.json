@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "650d8729a4ba4ba2a12fe5d7"
+  },
+  "codeFonction": "ACA",
+  "libelleFonction": "AUTRES CADRES ABIDJAN2",
+  "createdAt": {
+    "$date": "2023-09-22T12:23:05.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:23:05.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8a85a4ba4ba2a12fe60b"
+  },
+  "codeFonction": "ACI",
+  "libelleFonction": "AUTRES CADRES INTERIEUR",
+  "createdAt": {
+    "$date": "2023-09-22T12:37:25.001Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:37:25.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8a99a4ba4ba2a12fe60e"
+  },
+  "codeFonction": "ADG",
+  "libelleFonction": "DG ADJOINT",
+  "createdAt": {
+    "$date": "2023-09-22T12:37:45.036Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:37:45.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8ab1a4ba4ba2a12fe611"
+  },
+  "codeFonction": "ADR",
+  "libelleFonction": "ADJOINT DR",
+  "createdAt": {
+    "$date": "2023-09-22T12:38:09.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:38:09.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8ac5a4ba4ba2a12fe614"
+  },
+  "codeFonction": "AEA",
+  "libelleFonction": "AE ABIDJAN",
+  "createdAt": {
+    "$date": "2023-09-22T12:38:29.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:38:29.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e877ccc3c6f55fb65bbce"
+  },
+  "codeFonction": "AMOA",
+  "libelleFonction": "Assistant à maitrise d'ouvrage",
+  "createdAt": {
+    "$date": "2023-10-05T09:53:00.885Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:53:00.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac09acc6f2b35975357163"
+  },
+  "codeFonction": "AZE",
+  "libelleFonction": "Maitrise",
+  "createdAt": {
+    "$date": "2024-01-20T17:58:04.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T17:58:04.993Z"
+  },
+  "__v": 0
+}]

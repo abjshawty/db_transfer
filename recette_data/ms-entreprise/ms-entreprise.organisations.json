@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6798c17d0ad9402dac4143ea"
+  },
+  "slug": "ORG-250128-402dac4143eb-001",
+  "name": "Organisation 1",
+  "status": "active",
+  "societe": {
+    "$oid": "6798c16d0ad9402dac4143d6"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:33.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:33.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c1870ad9402dac4143fb"
+  },
+  "slug": "ORG-250128-402dac4143fc-002",
+  "name": "Organisation 2",
+  "status": "active",
+  "societe": {
+    "$oid": "6798c16d0ad9402dac4143d6"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:43.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:43.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3729c0ad9402dac4144b9"
+  },
+  "slug": "ORG-250205-402dac4144ba-003",
+  "name": "TEST",
+  "status": "removed",
+  "societe": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:15:56.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:20:17.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3737f0ad9402dac4144d9"
+  },
+  "slug": "ORG-250205-402dac4144da-004",
+  "name": "zs",
+  "status": "removed",
+  "societe": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:19:43.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:19:47.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a373a70ad9402dac414506"
+  },
+  "slug": "ORG-250205-402dac414507-005",
+  "name": "test",
+  "status": "active",
+  "societe": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:20:23.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:20:23.275Z"
+  },
+  "__v": 0
+}]

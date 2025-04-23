@@ -1,0 +1,826 @@
+[{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5ce3"
+  },
+  "libact": "Tle eau",
+  "codeact": "5",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5ce5"
+  },
+  "libact": "branchement ordinaires",
+  "codeact": "10",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5ce7"
+  },
+  "libact": "branchement subventionnes",
+  "codeact": "15",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.294Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5ce9"
+  },
+  "libact": "Travaux_d_Entreprise",
+  "codeact": "20",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.296Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5ceb"
+  },
+  "libact": "Travx_Curag_Grosse_ Canalis_Fact",
+  "codeact": "22",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5ced"
+  },
+  "libact": "Travx_Curag_Reseaux_Facturables",
+  "codeact": "23",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.301Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cef"
+  },
+  "libact": "Travaux_Maintenance_Stat°_Fact",
+  "codeact": "24",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cf1"
+  },
+  "libact": "Trvx_Neufs_Fonds_Dev",
+  "codeact": "25",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cf3"
+  },
+  "libact": "Prestations_Internes_Fournies",
+  "codeact": "28",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cf5"
+  },
+  "libact": "Cout_Vehicules",
+  "codeact": "2A",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cf7"
+  },
+  "libact": "Cout_Vehicules",
+  "codeact": "2E",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cf9"
+  },
+  "libact": "Cout_Vehicules",
+  "codeact": "2G",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cfb"
+  },
+  "libact": "FRAIS DE BANQUE",
+  "codeact": "2H",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cfd"
+  },
+  "libact": "Cout_Vehicules",
+  "codeact": "2T",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5cff"
+  },
+  "libact": "Production_Vente Eau",
+  "codeact": "30",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d01"
+  },
+  "libact": "Entretien_Stations",
+  "codeact": "32",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d03"
+  },
+  "libact": "Entretien_Reseau",
+  "codeact": "34",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.326Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d05"
+  },
+  "libact": "Trvx_Renouvellement_Fonds_Dev",
+  "codeact": "35",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d07"
+  },
+  "libact": "Production_Compteurs",
+  "codeact": "36",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d09"
+  },
+  "libact": "Rehabilitation_Compteurs",
+  "codeact": "37",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d0b"
+  },
+  "libact": "Prestations_Internes_Fournies",
+  "codeact": "38",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.334Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d0d"
+  },
+  "libact": "TLE et Inspection Camera Fact",
+  "codeact": "40",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d0f"
+  },
+  "libact": "Curage_Caniveaux_et_Canaux_Prim",
+  "codeact": "41",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d11"
+  },
+  "libact": "Curage_Canalisations_Non Fact",
+  "codeact": "42",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d13"
+  },
+  "libact": "Curage_Reseaux_Non Fact",
+  "codeact": "43",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d15"
+  },
+  "libact": "Maintenance_Station_Non_Facturab",
+  "codeact": "44",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d17"
+  },
+  "libact": "Trvx_Neufs_Fonds_Dev",
+  "codeact": "45",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d19"
+  },
+  "libact": "Entretien_Stations_ d_Epuration",
+  "codeact": "46",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.352Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d1b"
+  },
+  "libact": "Inspection_Camera_Non_Facturable",
+  "codeact": "47",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.354Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d1d"
+  },
+  "libact": "Gestion_Postes_Depotages_Non_Fac",
+  "codeact": "48",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d1f"
+  },
+  "libact": "Maintenance_Reseaux_Non_Facturab",
+  "codeact": "49",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d21"
+  },
+  "libact": "Ventes_Externes_Compteurs",
+  "codeact": "50",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d23"
+  },
+  "libact": "Assistance_Technique_Exterieure",
+  "codeact": "52",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d25"
+  },
+  "libact": "Trvx_Renouvellement_Fonds_Dev",
+  "codeact": "55",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d27"
+  },
+  "libact": "Branchemts_Subventionnes_Fact",
+  "codeact": "56",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d29"
+  },
+  "libact": "Prestations_Internes_Fournies",
+  "codeact": "58",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d2b"
+  },
+  "libact": "Main_d_Oeuvre",
+  "codeact": "5H",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d2d"
+  },
+  "libact": "Travaux_d_Entreprise",
+  "codeact": "60",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d2f"
+  },
+  "libact": "Entretien_Stations",
+  "codeact": "62",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d31"
+  },
+  "libact": "Entretien_Reseau",
+  "codeact": "64",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d33"
+  },
+  "libact": "Trvx_Neufs_Fonds_Dev",
+  "codeact": "65",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d35"
+  },
+  "libact": "Topographie_Cartograph_Non_Fact",
+  "codeact": "69",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.381Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d37"
+  },
+  "libact": "Livraisons_a_nous_memes",
+  "codeact": "71",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.383Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d39"
+  },
+  "libact": "Livraisons_a_nous_memes",
+  "codeact": "74",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d3b"
+  },
+  "libact": "Trvx_Renouvellement_Fonds_Dev",
+  "codeact": "75",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d3d"
+  },
+  "libact": "Livraisons_a_nous_memes",
+  "codeact": "78",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d3f"
+  },
+  "libact": "Vente_Assainissement_Non_Fact",
+  "codeact": "80",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d41"
+  },
+  "libact": "Travaux_Neufs_Facturables",
+  "codeact": "84",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.392Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d43"
+  },
+  "libact": "Renouvellemt_Electromecaniq_Fact",
+  "codeact": "85",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d45"
+  },
+  "libact": "Renouvellt_Genie_Civil_Fact",
+  "codeact": "86",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.396Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d47"
+  },
+  "libact": "structure",
+  "codeact": "90",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.398Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d49"
+  },
+  "libact": "Structure",
+  "codeact": "91",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d4b"
+  },
+  "libact": "Structure",
+  "codeact": "92",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d4d"
+  },
+  "libact": "Structure",
+  "codeact": "93",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d4f"
+  },
+  "libact": "Structure",
+  "codeact": "94",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d51"
+  },
+  "libact": "Structure",
+  "codeact": "95",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d53"
+  },
+  "libact": "Structure",
+  "codeact": "96",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e85ff92e5194976d6c5d55"
+  },
+  "libact": "Structure",
+  "codeact": "97",
+  "createdAt": {
+    "$date": "2024-03-06T12:22:17.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:22:17.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef2284170a5eb2a1b23989"
+  },
+  "libact": "ROK",
+  "codeact": "0158",
+  "createdAt": {
+    "$date": "2024-03-11T15:25:56.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T15:25:56.521Z"
+  },
+  "__v": 0
+}]

@@ -41,3 +41,6 @@ python main.py
 
 ## License
 This project is not licensed.
+
+# Important Notes
+Profiles have been given up on. They were, to say kindly, a bit of a pain.

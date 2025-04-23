@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d4d"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "master@demo.ci",
+  "lastname": "Doe",
+  "firstname": "John",
+  "profile": [
+    {
+      "isDefault": false,
+      "roles": [],
+      "_id": {
+        "$oid": "665ddc7221db0d00305d29e1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T15:08:34.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d4e"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "brice.gnazale@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "roles": [],
+      "_id": {
+        "$oid": "665de18d21db0d00305d2a11"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T15:30:21.919Z"
+  },
+  "__v": 0,
+  "firstname": "BRICE HABIB JORDANE DE GREBE",
+  "lastLoginDate": {
+    "$date": "2024-06-03T15:30:21.905Z"
+  },
+  "lastname": "GNAZALE",
+  "matricule": "00678"
+},
+{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d4f"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "ballo.issiaka@gs2e.ci",
+  "profile": {
+    "$oid": "64f1ab6a2531670025ad5d49"
+  },
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-31T09:09:02.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d50"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "soveh@gs2e.ci",
+  "profile": {
+    "$oid": "64f1ab6a2531670025ad5d49"
+  },
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d51"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "jbrakoi@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "roles": [],
+      "_id": {
+        "$oid": "65eefabe6e77310026fd7d94"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T09:57:10.993Z"
+  },
+  "__v": 0,
+  "firstname": "JOEL",
+  "lastLoginDate": {
+    "$date": "2024-06-03T09:57:10.976Z"
+  },
+  "lastname": "BRAKOI,",
+  "matricule": "00655"
+},
+{
+  "_id": {
+    "$oid": "64f1ab6a2531670025ad5d52"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": false,
+  "email": "dworou@gs2e.ci",
+  "profile": {
+    "$oid": "64f1ab6a2531670025ad5d49"
+  },
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6627bfded85e2968ab298118"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "roger.kangah@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "roles": [],
+      "_id": {
+        "$oid": "65eefabe6e77310026fd7d94"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-31T09:02:34.724Z"
+  },
+  "__v": 0,
+  "firstname": "ROGER",
+  "lastLoginDate": {
+    "$date": "2024-05-31T09:02:34.710Z"
+  },
+  "lastname": "KANGAH",
+  "matricule": "023563M"
+},
+{
+  "_id": {
+    "$oid": "665718d5ffa78ca772243972"
+  },
+  "status": "active",
+  "role": "admin",
+  "isEmailConfirmed": true,
+  "email": "delphine.beindje@gs2e.ci",
+  "profile": [
+    {
+      "isDefault": false,
+      "roles": [],
+      "_id": {
+        "$oid": "65eefabe6e77310026fd7d94"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-01T09:14:18.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-03T15:33:00.588Z"
+  },
+  "__v": 0,
+  "firstname": "N'GNORON DELPHINE ROSEMONDE",
+  "lastLoginDate": {
+    "$date": "2024-06-03T15:33:00.574Z"
+  },
+  "lastname": "BEINDJE",
+  "matricule": "00856"
+}]

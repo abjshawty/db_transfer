@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6798c18eb01e72ef4ea33837"
+  },
+  "name": "ADMIN",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:50.434Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:50.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c192b01e72ef4ea3383f"
+  },
+  "name": "USERS",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:54.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:54.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c198b01e72ef4ea33847"
+  },
+  "name": "CAISSIER",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:38:00.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:38:00.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a37407b01e72ef4ea33866"
+  },
+  "name": "TOTOO",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:21:59.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:22:05.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a37411b01e72ef4ea3387e"
+  },
+  "name": "TOTO",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:22:09.082Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:26:32.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3751eb01e72ef4ea33891"
+  },
+  "name": "role",
+  "status": "removed",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:26:38.032Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:26:41.704Z"
+  },
+  "__v": 0
+}]

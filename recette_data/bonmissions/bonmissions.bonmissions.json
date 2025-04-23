@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "66979f44299408e8e1ecd32c"
+  },
+  "numeroBon": "organisation 022407173",
+  "motif": "Visite de la centrale de yamoussoukro",
+  "serviceEmetteur": null,
+  "beneficiaire": "651e75e5cc3c6f55fb65b9dd",
+  "matricule": "010702*",
+  "nom": "YAO OKOU ERIC",
+  "zoneIntervention": "Abidjan",
+  "mandataire": false,
+  "mandataireDetails": {
+    "nom": "",
+    "prenom": "",
+    "CNI": "",
+    "remarque": ""
+  },
+  "emetteur": "651d4ccecc3c6f55fb65ab5d",
+  "typeMission": "false",
+  "moyenTransport": "TRTCOM",
+  "ordonnateurMission": "kouassi franck",
+  "dateDepart": {
+    "$date": "2024-07-18T00:00:00.000Z"
+  },
+  "dateArrivee": {
+    "$date": "2024-07-23T00:00:00.000Z"
+  },
+  "itineraireMultiple": false,
+  "status": "injected",
+  "depart": "Abj",
+  "arrivee": "Yam",
+  "itineraires": [
+    {
+      "index": 0,
+      "depart": "Abidjan",
+      "arrive": "Yamoussoukro",
+      "distance": 243,
+      "codeItineraire": "Abj-Yam",
+      "totalDistance": 486
+    },
+    {
+      "index": 1,
+      "depart": "Abidjan",
+      "arrive": "Yamoussoukro",
+      "distance": 243,
+      "codeItineraire": "Abj-Yam",
+      "totalDistance": 486
+    }
+  ],
+  "tauxKilometrique": 0,
+  "complementKilometrique": 0,
+  "distanceCalculee": 486,
+  "indemniteKilometrique": 0,
+  "tarifsTransportCommun": 40000,
+  "complementTransport": 49990,
+  "fraisDeplacement": 179980,
+  "nombreRepas": 6,
+  "nombreNuitees": 5,
+  "prixRestauration": 4500,
+  "prixHebergement": 15000,
+  "montantRestauration": 102000,
+  "totalOrdreMission": 281980,
+  "exploitation": "020000",
+  "activite": "64",
+  "indiceTiers": "P",
+  "codePartenaire": "010702*",
+  "pieceJointe": "",
+  "texteAnnexe": "",
+  "createdAt": {
+    "$date": "2024-07-17T10:39:00.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T10:41:11.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a382d825b5c9b1220810b"
+  },
+  "numeroBon": "SODECI2410241",
+  "motif": "TEST GESICA",
+  "serviceEmetteur": null,
+  "beneficiaire": "651e75e5cc3c6f55fb65b9b9",
+  "matricule": "00025A",
+  "nom": "DJAGOUN GILLES",
+  "zoneIntervention": "Abidjan",
+  "mandataire": false,
+  "mandataireDetails": {
+    "nom": "",
+    "prenom": "",
+    "CNI": "",
+    "remarque": ""
+  },
+  "emetteur": "6527d8e85d9287acb3f5c88e",
+  "typeMission": "false",
+  "moyenTransport": "TRTCOM",
+  "ordonnateurMission": "DE SOUZA",
+  "dateDepart": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "dateArrivee": {
+    "$date": "2024-10-24T00:00:00.000Z"
+  },
+  "itineraireMultiple": true,
+  "status": "rejected",
+  "depart": "abj",
+  "arrivee": "Abe",
+  "itineraires": [
+    {
+      "index": 0,
+      "depart": "Abidjan",
+      "arrive": "Abengourou",
+      "distance": 20,
+      "codeItineraire": "abj-Abe",
+      "totalDistance": 40
+    },
+    {
+      "index": 1,
+      "depart": "Abidjan",
+      "arrive": "Abengourou",
+      "distance": 20,
+      "codeItineraire": "abj-Abe",
+      "totalDistance": 40
+    }
+  ],
+  "tauxKilometrique": 0,
+  "complementKilometrique": 0,
+  "distanceCalculee": 40,
+  "indemniteKilometrique": 0,
+  "tarifsTransportCommun": 0,
+  "complementTransport": 0,
+  "fraisDeplacement": 0,
+  "nombreRepas": -2,
+  "nombreNuitees": -3,
+  "prixRestauration": 9500,
+  "prixHebergement": 20500,
+  "montantRestauration": -80500,
+  "totalOrdreMission": 0,
+  "exploitation": "021000",
+  "activite": "91",
+  "indiceTiers": "P",
+  "codePartenaire": "00025A",
+  "pieceJointe": "",
+  "texteAnnexe": "",
+  "createdAt": {
+    "$date": "2024-10-24T12:06:05.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T12:14:38.371Z"
+  },
+  "__v": 0,
+  "motifRejet": ""
+},
+{
+  "_id": {
+    "$oid": "671a38d7825b5c9b12208115"
+  },
+  "numeroBon": "SODECI2410242",
+  "motif": "TEST GESICA 2",
+  "serviceEmetteur": null,
+  "beneficiaire": "651e75e5cc3c6f55fb65b9b9",
+  "matricule": "00025A",
+  "nom": "DJAGOUN GILLES",
+  "zoneIntervention": "Abidjan",
+  "mandataire": false,
+  "mandataireDetails": {
+    "nom": "",
+    "prenom": "",
+    "CNI": "",
+    "remarque": ""
+  },
+  "emetteur": "6527d8e85d9287acb3f5c88e",
+  "typeMission": "false",
+  "moyenTransport": "TRTCOM",
+  "ordonnateurMission": "DE SOUZA",
+  "dateDepart": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "dateArrivee": {
+    "$date": "2024-10-27T00:00:00.000Z"
+  },
+  "itineraireMultiple": false,
+  "status": "injected",
+  "depart": "abj",
+  "arrivee": "Abe",
+  "itineraires": [
+    {
+      "index": 0,
+      "depart": "Abidjan",
+      "arrive": "Abengourou",
+      "distance": 20,
+      "codeItineraire": "abj-Abe",
+      "totalDistance": 20
+    }
+  ],
+  "tauxKilometrique": 0,
+  "complementKilometrique": 0,
+  "distanceCalculee": 20,
+  "indemniteKilometrique": 0,
+  "tarifsTransportCommun": 1000000,
+  "complementTransport": 1000000,
+  "fraisDeplacement": 4000000,
+  "nombreRepas": 0,
+  "nombreNuitees": 0,
+  "prixRestauration": 9500,
+  "prixHebergement": 20500,
+  "montantRestauration": 0,
+  "totalOrdreMission": 0,
+  "exploitation": "021000",
+  "activite": "91",
+  "indiceTiers": "P",
+  "codePartenaire": "00025A",
+  "pieceJointe": "",
+  "texteAnnexe": "Texte Annexe",
+  "createdAt": {
+    "$date": "2024-10-24T12:08:55.828Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T12:14:55.128Z"
+  },
+  "__v": 0
+}]

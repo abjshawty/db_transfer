@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "67128ebb129c1ee68c8aa903"
+  },
+  "name": "DAPSI",
+  "status": "active",
+  "user": {
+    "$oid": "665e1a8a0f884630a3dc823a"
+  },
+  "societe": {
+    "$oid": "67128902129c1ee68c8aa8f1"
+  },
+  "createdAt": {
+    "$date": "2024-10-21T14:02:54.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T12:04:24.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2e77f64f905f848d3869"
+  },
+  "name": "Orga 1",
+  "status": "active",
+  "user": {
+    "$oid": "671a2b9fa1cbb465a4832537"
+  },
+  "societe": {
+    "$oid": "67128902129c1ee68c8aa8f1"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T11:24:39.462Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:24:45.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c17d0ad9402dac4143ea"
+  },
+  "name": "Organisation 1",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "societe": {
+    "$oid": "6798c16d0ad9402dac4143d6"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:33.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:33.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c1870ad9402dac4143fb"
+  },
+  "name": "Organisation 2",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "societe": {
+    "$oid": "6798c16d0ad9402dac4143d6"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:43.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:43.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3729c0ad9402dac4144b9"
+  },
+  "name": "TEST",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "societe": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:15:56.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:15:56.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3737f0ad9402dac4144d9"
+  },
+  "name": "zs",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "societe": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:19:43.257Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:19:43.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a373a70ad9402dac414506"
+  },
+  "name": "test",
+  "status": "active",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "societe": {
+    "$oid": "67a372910ad9402dac4144a0"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T14:20:23.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T14:20:23.292Z"
+  },
+  "__v": 0
+}]

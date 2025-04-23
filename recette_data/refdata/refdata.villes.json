@@ -1,0 +1,1809 @@
+[{
+  "_id": {
+    "$oid": "6516fd88a4ba4ba2a1305daf"
+  },
+  "codeVille": "Abe",
+  "codePays": "CI",
+  "libelleVille": "Abengourou",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd88a4ba4ba2a1305db1"
+  },
+  "codeVille": "abj",
+  "codePays": "CI",
+  "libelleVille": "Abidjan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd88a4ba4ba2a1305db3"
+  },
+  "codeVille": "Abo",
+  "codePays": "CI",
+  "libelleVille": "Aboisso",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd88a4ba4ba2a1305db5"
+  },
+  "codeVille": "ADI",
+  "codePays": "CI",
+  "libelleVille": "ADIAKE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd88a4ba4ba2a1305db7"
+  },
+  "codeVille": "ADJ",
+  "codePays": "CI",
+  "libelleVille": "ADJOUAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305db9"
+  },
+  "codeVille": "Adz",
+  "codePays": "CI",
+  "libelleVille": "Adzopé",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dbb"
+  },
+  "codeVille": "AFF",
+  "codePays": "CI",
+  "libelleVille": "AFFIENOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dbd"
+  },
+  "codeVille": "AFY",
+  "codePays": "CI",
+  "libelleVille": "AFFERY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dbf"
+  },
+  "codeVille": "Agb",
+  "codePays": "CI",
+  "libelleVille": "Agboville",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dc1"
+  },
+  "codeVille": "AGN",
+  "codePays": "CI",
+  "libelleVille": "AGNIBILEKROU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dc3"
+  },
+  "codeVille": "AGO",
+  "codePays": "CI",
+  "libelleVille": "AGOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dc5"
+  },
+  "codeVille": "AKE",
+  "codePays": "CI",
+  "libelleVille": "AKOURE-DABLE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dc7"
+  },
+  "codeVille": "AKO",
+  "codePays": "CI",
+  "libelleVille": "AKOUPE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dc9"
+  },
+  "codeVille": "ALE",
+  "codePays": "CI",
+  "libelleVille": "ALEPE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dcb"
+  },
+  "codeVille": "AND",
+  "codePays": "CI",
+  "libelleVille": "ANDE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dcd"
+  },
+  "codeVille": "ANO",
+  "codePays": "CI",
+  "libelleVille": "ANANGUIE-AHOUABO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dcf"
+  },
+  "codeVille": "ANY",
+  "codePays": "CI",
+  "libelleVille": "ANYAMA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dd1"
+  },
+  "codeVille": "ARR",
+  "codePays": "CI",
+  "libelleVille": "ARRAH",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dd3"
+  },
+  "codeVille": "ASI",
+  "codePays": "CI",
+  "libelleVille": "ASSUEFRI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dd5"
+  },
+  "codeVille": "ASK",
+  "codePays": "CI",
+  "libelleVille": "ASSIKOUA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dd7"
+  },
+  "codeVille": "ASM",
+  "codePays": "CI",
+  "libelleVille": "ASSINIE MAFIA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dd9"
+  },
+  "codeVille": "ATT",
+  "codePays": "CI",
+  "libelleVille": "ATTINGUIE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ddb"
+  },
+  "codeVille": "AYA",
+  "codePays": "CI",
+  "libelleVille": "AYAME",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ddd"
+  },
+  "codeVille": "AZA",
+  "codePays": "CI",
+  "libelleVille": "AZAGUIE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ddf"
+  },
+  "codeVille": "BAK",
+  "codePays": "CI",
+  "libelleVille": "BAKO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305de1"
+  },
+  "codeVille": "BAN",
+  "codePays": "CI",
+  "libelleVille": "BANGOLO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305de3"
+  },
+  "codeVille": "BAS",
+  "codePays": "CI",
+  "libelleVille": "BASSAM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305de5"
+  },
+  "codeVille": "BEC",
+  "codePays": "CI",
+  "libelleVille": "BECEDI BRIAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305de7"
+  },
+  "codeVille": "BEO",
+  "codePays": "CI",
+  "libelleVille": "BEOUMI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305de9"
+  },
+  "codeVille": "BET",
+  "codePays": "CI",
+  "libelleVille": "BETTIE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305deb"
+  },
+  "codeVille": "Bia",
+  "codePays": "CI",
+  "libelleVille": "Biankouma",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ded"
+  },
+  "codeVille": "BIH",
+  "codePays": "CI",
+  "libelleVille": "BIN HOUYE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305def"
+  },
+  "codeVille": "BIK",
+  "codePays": "CI",
+  "libelleVille": "BIANKOUMA GOUES",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305df1"
+  },
+  "codeVille": "BIN",
+  "codePays": "CI",
+  "libelleVille": "BINGERVILLE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305df3"
+  },
+  "codeVille": "BLO",
+  "codePays": "CI",
+  "libelleVille": "BLOLEQUIN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305df5"
+  },
+  "codeVille": "BOA",
+  "codePays": "CI",
+  "libelleVille": "BONOUA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305df7"
+  },
+  "codeVille": "BOB",
+  "codePays": "CI",
+  "libelleVille": "BONNEREDOUGOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305df9"
+  },
+  "codeVille": "BOC",
+  "codePays": "CI",
+  "libelleVille": "BOCANDA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dfb"
+  },
+  "codeVille": "Bod",
+  "codePays": "CI",
+  "libelleVille": "Bondoukou",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dfd"
+  },
+  "codeVille": "BOE",
+  "codePays": "CI",
+  "libelleVille": "BOUDEPE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305dff"
+  },
+  "codeVille": "Bof",
+  "codePays": "CI",
+  "libelleVille": "Bouaflé",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e01"
+  },
+  "codeVille": "Bog",
+  "codePays": "CI",
+  "libelleVille": "Bongouanou",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e03"
+  },
+  "codeVille": "Bok",
+  "codePays": "CI",
+  "libelleVille": "Bouaké",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e05"
+  },
+  "codeVille": "Bol",
+  "codePays": "CI",
+  "libelleVille": "Boundiali",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e07"
+  },
+  "codeVille": "Bon",
+  "codePays": "CI",
+  "libelleVille": "Bouna",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e09"
+  },
+  "codeVille": "BOO",
+  "codePays": "CI",
+  "libelleVille": "BONON",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e0b"
+  },
+  "codeVille": "BOR",
+  "codePays": "CI",
+  "libelleVille": "BOROTOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e0d"
+  },
+  "codeVille": "BOT",
+  "codePays": "CI",
+  "libelleVille": "BOTRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e0f"
+  },
+  "codeVille": "BRO",
+  "codePays": "CI",
+  "libelleVille": "BROBO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e11"
+  },
+  "codeVille": "BUY",
+  "codePays": "CI",
+  "libelleVille": "BUYO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e13"
+  },
+  "codeVille": "CMEAU",
+  "codePays": "CI",
+  "libelleVille": "Centre des Métiers d'Eau",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e15"
+  },
+  "codeVille": "Dab",
+  "codePays": "CI",
+  "libelleVille": "Dabakala",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e17"
+  },
+  "codeVille": "DAD",
+  "codePays": "CI",
+  "libelleVille": "DABOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e19"
+  },
+  "codeVille": "Dak",
+  "codePays": "SEN",
+  "libelleVille": "Dakar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e1b"
+  },
+  "codeVille": "Dal",
+  "codePays": "CI",
+  "libelleVille": "Daloa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e1d"
+  },
+  "codeVille": "Dan",
+  "codePays": "CI",
+  "libelleVille": "Danané",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e1f"
+  },
+  "codeVille": "DAO",
+  "codePays": "CI",
+  "libelleVille": "DAOUKRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e21"
+  },
+  "codeVille": "Dar",
+  "codePays": "SEN",
+  "libelleVille": "Dakar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e23"
+  },
+  "codeVille": "DIA",
+  "codePays": "CI",
+  "libelleVille": "DIABO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e25"
+  },
+  "codeVille": "DID",
+  "codePays": "CI",
+  "libelleVille": "DIDIEVI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e27"
+  },
+  "codeVille": "DIE",
+  "codePays": "CI",
+  "libelleVille": "DIEGONEFLA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e29"
+  },
+  "codeVille": "DIK",
+  "codePays": "CI",
+  "libelleVille": "DIKODOUGOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e2b"
+  },
+  "codeVille": "Dim",
+  "codePays": "CI",
+  "libelleVille": "Dimbokro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e2d"
+  },
+  "codeVille": "Div",
+  "codePays": "CI",
+  "libelleVille": "Divo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e2f"
+  },
+  "codeVille": "DIW",
+  "codePays": "CI",
+  "libelleVille": "DIAWALA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e31"
+  },
+  "codeVille": "Dou",
+  "codePays": "CAM",
+  "libelleVille": "Douala",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e33"
+  },
+  "codeVille": "DUE",
+  "codePays": "CI",
+  "libelleVille": "DUEKOUE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e35"
+  },
+  "codeVille": "FAC",
+  "codePays": "CI",
+  "libelleVille": "FACOBLY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e37"
+  },
+  "codeVille": "Fer",
+  "codePays": "CI",
+  "libelleVille": "Ferkéssédougou",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e39"
+  },
+  "codeVille": "FRE",
+  "codePays": "CI",
+  "libelleVille": "FRESCO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e3b"
+  },
+  "codeVille": "FRO",
+  "codePays": "CI",
+  "libelleVille": "FRONAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e3d"
+  },
+  "codeVille": "GAD",
+  "codePays": "CI",
+  "libelleVille": "GADOUAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e3f"
+  },
+  "codeVille": "Gag",
+  "codePays": "CI",
+  "libelleVille": "Gagnoa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e41"
+  },
+  "codeVille": "GBO",
+  "codePays": "CI",
+  "libelleVille": "GBON",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e43"
+  },
+  "codeVille": "GDB ",
+  "codePays": "CI",
+  "libelleVille": "Gd BASSAM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e45"
+  },
+  "codeVille": "GOH",
+  "codePays": "CI",
+  "libelleVille": "GOHITAFLA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e47"
+  },
+  "codeVille": "GOU",
+  "codePays": "CI",
+  "libelleVille": "GOULIA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e49"
+  },
+  "codeVille": "GRA",
+  "codePays": "CI",
+  "libelleVille": "GRAND AFFERY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e4b"
+  },
+  "codeVille": "GRB",
+  "codePays": "CI",
+  "libelleVille": "GRAND BEREBY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e4d"
+  },
+  "codeVille": "GRL",
+  "codePays": "CI",
+  "libelleVille": "GRAND-LAHOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e4f"
+  },
+  "codeVille": "GRM",
+  "codePays": "CI",
+  "libelleVille": "GRAND MORIE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e51"
+  },
+  "codeVille": "GRZ",
+  "codePays": "CI",
+  "libelleVille": "GRAND ZATRY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e53"
+  },
+  "codeVille": "GUA",
+  "codePays": "CI",
+  "libelleVille": "GUIBEROUA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e55"
+  },
+  "codeVille": "GUB",
+  "codePays": "CI",
+  "libelleVille": "GUIEMBE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e57"
+  },
+  "codeVille": "GUE",
+  "codePays": "CI",
+  "libelleVille": "GUEYO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e59"
+  },
+  "codeVille": "Gui",
+  "codePays": "CI",
+  "libelleVille": "Guiglo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e5b"
+  },
+  "codeVille": "GUT",
+  "codePays": "CI",
+  "libelleVille": "GUITRY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e5d"
+  },
+  "codeVille": "HER",
+  "codePays": "CI",
+  "libelleVille": "HERMANKONO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e5f"
+  },
+  "codeVille": "HIR",
+  "codePays": "CI",
+  "libelleVille": "HIRE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e61"
+  },
+  "codeVille": "Iss",
+  "codePays": "CI",
+  "libelleVille": "Issia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e63"
+  },
+  "codeVille": "JAC",
+  "codePays": "CI",
+  "libelleVille": "JACQUEVILLE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e65"
+  },
+  "codeVille": "KAI",
+  "codePays": "CI",
+  "libelleVille": "KANI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e67"
+  },
+  "codeVille": "KAN",
+  "codePays": "CI",
+  "libelleVille": "KANIASSO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e69"
+  },
+  "codeVille": "KAO",
+  "codePays": "CI",
+  "libelleVille": "KANAKONO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e6b"
+  },
+  "codeVille": "KAS",
+  "codePays": "CI",
+  "libelleVille": "KASSERE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e6d"
+  },
+  "codeVille": "Kat",
+  "codePays": "CI",
+  "libelleVille": "Katiola",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e6f"
+  },
+  "codeVille": "KET",
+  "codePays": "CI",
+  "libelleVille": "KETESSO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e71"
+  },
+  "codeVille": "KOB",
+  "codePays": "CI",
+  "libelleVille": "KOTOBI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e73"
+  },
+  "codeVille": "KOF",
+  "codePays": "CI",
+  "libelleVille": "KOUN-FAO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e75"
+  },
+  "codeVille": "KOG",
+  "codePays": "CI",
+  "libelleVille": "KONG",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e77"
+  },
+  "codeVille": "KOI",
+  "codePays": "CI",
+  "libelleVille": "KOUASSI-KOUASSI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e79"
+  },
+  "codeVille": "KOL",
+  "codePays": "CI",
+  "libelleVille": "KOLIA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e7b"
+  },
+  "codeVille": "KOM",
+  "codePays": "CI",
+  "libelleVille": "KOMBORO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e7d"
+  },
+  "codeVille": "KON",
+  "codePays": "CI",
+  "libelleVille": "KONONFLA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e7f"
+  },
+  "codeVille": "KOO",
+  "codePays": "CI",
+  "libelleVille": "KOUASSI DATEKRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e81"
+  },
+  "codeVille": "Kor",
+  "codePays": "CI",
+  "libelleVille": "Korhogo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e83"
+  },
+  "codeVille": "KOS",
+  "codePays": "CI",
+  "libelleVille": "KOSSOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e85"
+  },
+  "codeVille": "KOT",
+  "codePays": "CI",
+  "libelleVille": "KOUTO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e87"
+  },
+  "codeVille": "KOY",
+  "codePays": "CI",
+  "libelleVille": "KOUIBLY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e89"
+  },
+  "codeVille": "KRO",
+  "codePays": "CI",
+  "libelleVille": "KORO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e8b"
+  },
+  "codeVille": "Lak",
+  "codePays": "CI",
+  "libelleVille": "Lakota",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e8d"
+  },
+  "codeVille": "LOG",
+  "codePays": "CI",
+  "libelleVille": "LOGOUALLE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e8f"
+  },
+  "codeVille": "Lom",
+  "codePays": "TOG",
+  "libelleVille": "Lomé",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e91"
+  },
+  "codeVille": "LOP",
+  "codePays": "CI",
+  "libelleVille": "LOPOU-YOHOULI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e93"
+  },
+  "codeVille": "MAD",
+  "codePays": "CI",
+  "libelleVille": "MADINANI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e95"
+  },
+  "codeVille": "MAF",
+  "codePays": "CI",
+  "libelleVille": "MAFERE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e97"
+  },
+  "codeVille": "MAI",
+  "codePays": "CI",
+  "libelleVille": "MANINIAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e99"
+  },
+  "codeVille": "Mak",
+  "codePays": "CI",
+  "libelleVille": "Mankono",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e9b"
+  },
+  "codeVille": "Man",
+  "codePays": "CI",
+  "libelleVille": "Man",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e9d"
+  },
+  "codeVille": "MBA ",
+  "codePays": "CI",
+  "libelleVille": "M'BATTO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305e9f"
+  },
+  "codeVille": "MBE",
+  "codePays": "CI",
+  "libelleVille": "MBENGUE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ea1"
+  },
+  "codeVille": "MBH",
+  "codePays": "CI",
+  "libelleVille": "M'BAHIAKRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ea3"
+  },
+  "codeVille": "MEA",
+  "codePays": "CI",
+  "libelleVille": "MEAGUI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ea5"
+  },
+  "codeVille": "MEM",
+  "codePays": "CI",
+  "libelleVille": "MEMNI-MONTEZO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ea7"
+  },
+  "codeVille": "MOA",
+  "codePays": "CI",
+  "libelleVille": "MOAPE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ea9"
+  },
+  "codeVille": "NAP",
+  "codePays": "CI",
+  "libelleVille": "NAPIOLEDOUGOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eab"
+  },
+  "codeVille": "NAS",
+  "codePays": "CI",
+  "libelleVille": "NASSIAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ead"
+  },
+  "codeVille": "NGU",
+  "codePays": "CI",
+  "libelleVille": "N'GUESSAN POK.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eaf"
+  },
+  "codeVille": "NIA",
+  "codePays": "CI",
+  "libelleVille": "NIABLEY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eb1"
+  },
+  "codeVille": "NIE",
+  "codePays": "CI",
+  "libelleVille": "NIELLE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eb3"
+  },
+  "codeVille": "NIG",
+  "codePays": "CI",
+  "libelleVille": "NIANGON",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eb5"
+  },
+  "codeVille": "NIK",
+  "codePays": "CI",
+  "libelleVille": "NIAKARAMANDOUG.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eb7"
+  },
+  "codeVille": "NIO",
+  "codePays": "CI",
+  "libelleVille": "NIOFOIN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eb9"
+  },
+  "codeVille": "Odi",
+  "codePays": "CI",
+  "libelleVille": "Odiénné",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ebb"
+  },
+  "codeVille": "OKR",
+  "codePays": "CI",
+  "libelleVille": "OKROUYO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ebd"
+  },
+  "codeVille": "ORE",
+  "codePays": "CI",
+  "libelleVille": "ORESKROBOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ebf"
+  },
+  "codeVille": "Oua",
+  "codePays": "Bur",
+  "libelleVille": "Ouagadougou",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ec1"
+  },
+  "codeVille": "OUE",
+  "codePays": "CI",
+  "libelleVille": "OUELLE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ec3"
+  },
+  "codeVille": "OUG",
+  "codePays": "CI",
+  "libelleVille": "OUANGOLODOUGOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ec5"
+  },
+  "codeVille": "Oum",
+  "codePays": "CI",
+  "libelleVille": "Oumé",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ec7"
+  },
+  "codeVille": "OUR",
+  "codePays": "CI",
+  "libelleVille": "OURAGAHIO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ec9"
+  },
+  "codeVille": "PAK",
+  "codePays": "CI",
+  "libelleVille": "PAKOUABO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ecb"
+  },
+  "codeVille": "Par",
+  "codePays": "FR",
+  "libelleVille": "Paris",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ecd"
+  },
+  "codeVille": "PRI",
+  "codePays": "CI",
+  "libelleVille": "PRIKRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ecf"
+  },
+  "codeVille": "RUB",
+  "codePays": "CI",
+  "libelleVille": "RUBINO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ed1"
+  },
+  "codeVille": "SAA",
+  "codePays": "CI",
+  "libelleVille": "SATAMA-SOKOURA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ed3"
+  },
+  "codeVille": "SAD",
+  "codePays": "CI",
+  "libelleVille": "SANDEGUE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ed5"
+  },
+  "codeVille": "SAI",
+  "codePays": "CI",
+  "libelleVille": "SAIOUA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ed7"
+  },
+  "codeVille": "SAK",
+  "codePays": "CI",
+  "libelleVille": "SAKASSOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ed9"
+  },
+  "codeVille": "SAM",
+  "codePays": "CI",
+  "libelleVille": "SAMATIGUILA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305edb"
+  },
+  "codeVille": "San",
+  "codePays": "CI",
+  "libelleVille": "San-Pedro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305edd"
+  },
+  "codeVille": "SAR",
+  "codePays": "CI",
+  "libelleVille": "SARHALA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305edf"
+  },
+  "codeVille": "Sas",
+  "codePays": "CI",
+  "libelleVille": "Sassandra",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ee1"
+  },
+  "codeVille": "SAT",
+  "codePays": "CI",
+  "libelleVille": "SATAMA-SOKORO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ee3"
+  },
+  "codeVille": "Seg",
+  "codePays": "CI",
+  "libelleVille": "Séguéla",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ee5"
+  },
+  "codeVille": "SEL",
+  "codePays": "CI",
+  "libelleVille": "SEGUELON",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ee7"
+  },
+  "codeVille": "SEY",
+  "codePays": "CI",
+  "libelleVille": "SEYDOUGOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ee9"
+  },
+  "codeVille": "SIF",
+  "codePays": "CI",
+  "libelleVille": "SINFRA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eeb"
+  },
+  "codeVille": "SIK",
+  "codePays": "CI",
+  "libelleVille": "SIKENSI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eed"
+  },
+  "codeVille": "SIN",
+  "codePays": "CI",
+  "libelleVille": "SINEMATIALI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eef"
+  },
+  "codeVille": "SIP",
+  "codePays": "CI",
+  "libelleVille": "SIPILOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ef1"
+  },
+  "codeVille": "SIR",
+  "codePays": "CI",
+  "libelleVille": "SIRASSO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ef3"
+  },
+  "codeVille": "SON",
+  "codePays": "CI",
+  "libelleVille": "SONGON",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ef5"
+  },
+  "codeVille": "Sou",
+  "codePays": "CI",
+  "libelleVille": "Soubré",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ef7"
+  },
+  "codeVille": "TAA",
+  "codePays": "CI",
+  "libelleVille": "TAABO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305ef9"
+  },
+  "codeVille": "Tab",
+  "codePays": "CI",
+  "libelleVille": "Tabou",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305efb"
+  },
+  "codeVille": "TAF",
+  "codePays": "CI",
+  "libelleVille": "TAFIRE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305efd"
+  },
+  "codeVille": "TAG",
+  "codePays": "CI",
+  "libelleVille": "TANGUELAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305eff"
+  },
+  "codeVille": "TAI",
+  "codePays": "CI",
+  "libelleVille": "TAI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f01"
+  },
+  "codeVille": "TAK",
+  "codePays": "CI",
+  "libelleVille": "TANKESSE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f03"
+  },
+  "codeVille": "TAN",
+  "codePays": "CI",
+  "libelleVille": "TANDA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f05"
+  },
+  "codeVille": "TEH",
+  "codePays": "CI",
+  "libelleVille": "TEHINI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f07"
+  },
+  "codeVille": "TIA",
+  "codePays": "CI",
+  "libelleVille": "TIASSALE NDOUCI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f09"
+  },
+  "codeVille": "TIE",
+  "codePays": "CI",
+  "libelleVille": "TIEBISSOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f0b"
+  },
+  "codeVille": "TIG",
+  "codePays": "CI",
+  "libelleVille": "TIENINGBOUE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f0d"
+  },
+  "codeVille": "TIK",
+  "codePays": "CI",
+  "libelleVille": "TIENKO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f0f"
+  },
+  "codeVille": "TIM",
+  "codePays": "CI",
+  "libelleVille": "TIEMELEKRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f11"
+  },
+  "codeVille": "Tin",
+  "codePays": "CI",
+  "libelleVille": "Tingréla",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f13"
+  },
+  "codeVille": "TIO",
+  "codePays": "CI",
+  "libelleVille": "TIORONIARADOUG.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f15"
+  },
+  "codeVille": "TMI",
+  "codePays": "CI",
+  "libelleVille": "TIEME",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f17"
+  },
+  "codeVille": "TOM",
+  "codePays": "CI",
+  "libelleVille": "TOUMODI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f19"
+  },
+  "codeVille": "TOP",
+  "codePays": "CI",
+  "libelleVille": "TOULEPLEU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f1b"
+  },
+  "codeVille": "TOR",
+  "codePays": "CI",
+  "libelleVille": "TORTIYA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f1d"
+  },
+  "codeVille": "Tou",
+  "codePays": "CI",
+  "libelleVille": "Touba",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f1f"
+  },
+  "codeVille": "Tus",
+  "codePays": "TUN",
+  "libelleVille": "Tunise",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f21"
+  },
+  "codeVille": "VAV",
+  "codePays": "CI",
+  "libelleVille": "VAVOUA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f23"
+  },
+  "codeVille": "WAN",
+  "codePays": "CI",
+  "libelleVille": "WANINOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f25"
+  },
+  "codeVille": "WAS",
+  "codePays": "CI",
+  "libelleVille": "WASSAKARA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f27"
+  },
+  "codeVille": "YAB",
+  "codePays": "CI",
+  "libelleVille": "YAKASSE-ATTOBROU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f29"
+  },
+  "codeVille": "YAC",
+  "codePays": "CI",
+  "libelleVille": "YACOLY",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f2b"
+  },
+  "codeVille": "YAK",
+  "codePays": "CI",
+  "libelleVille": "YAKASSE ME",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f2d"
+  },
+  "codeVille": "Yam",
+  "codePays": "CI",
+  "libelleVille": "Yamoussoukro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f2f"
+  },
+  "codeVille": "YAT",
+  "codePays": "CI",
+  "libelleVille": "YAKASSE-ATTOBRO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f31"
+  },
+  "codeVille": "ZAR",
+  "codePays": "CI",
+  "libelleVille": "ZARANOU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f33"
+  },
+  "codeVille": "ZIK",
+  "codePays": "CI",
+  "libelleVille": "ZIKISSO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f35"
+  },
+  "codeVille": "ZOG",
+  "codePays": "CI",
+  "libelleVille": "ZOUKOUGBEU",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f37"
+  },
+  "codeVille": "ZOU",
+  "codePays": "CI",
+  "libelleVille": "ZOUAN-HOUNIEN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516fd89a4ba4ba2a1305f39"
+  },
+  "codeVille": "Zue",
+  "codePays": "CI",
+  "libelleVille": "Zuénoula",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac0b34c6f2b3597535718a"
+  },
+  "codeVille": "CI",
+  "codePays": "225",
+  "libelleVille": "BÉOUMI",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a2f548591b3512173f671"
+  },
+  "codeVille": "ABJ",
+  "codePays": "CI",
+  "libelleVille": "ABIDJAN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a35b6408e05e208a403243"
+  },
+  "codeVille": "BK",
+  "codePays": "CI",
+  "libelleVille": "BOUAKE",
+  "__v": 0
+}]

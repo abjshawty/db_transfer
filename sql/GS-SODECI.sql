@@ -1,7 +1,15 @@
 CREATE TABLE IF NOT EXISTS `Activite` (
   `id` varchar(255) PRIMARY KEY,
-  `codeact` varchar(255) UNIQUE,
-  `libact` varchar(255),
+  `code` varchar(255) UNIQUE,
+  `libelle` varchar(255),
+  `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
+  `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
+  `__v` integer DEFAULT 0
+);
+CREATE TABLE IF NOT EXISTS `ActiviteCI` (
+  `id` varchar(255) PRIMARY KEY,
+  `codeCentreImputation` varchar(255),
+  `codeActivite` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
   `__v` integer DEFAULT 0
@@ -145,7 +153,7 @@ CREATE TABLE IF NOT EXISTS `CategorieAgent` (
 );
 CREATE TABLE IF NOT EXISTS `CentreImputation` (
   `id` varchar(255) PRIMARY KEY,
-  `code` varchar(255),
+  `code` varchar(255) UNIQUE,
   `libelle` varchar(255),
   `codeEntite` varchar(255),
   `createdAt` timestamp DEFAULT CURRENT_TIMESTAMP,
@@ -391,6 +399,10 @@ CREATE TABLE IF NOT EXISTS `ZoneIntervention` (
   `updatedAt` timestamp ON UPDATE CURRENT_TIMESTAMP,
   `__v` integer DEFAULT 0
 );
+ALTER TABLE `ActiviteCI`
+ADD FOREIGN KEY (`codeActivite`) REFERENCES `Activite` (`code`);
+ALTER TABLE `ActiviteCI`
+ADD FOREIGN KEY (`codeCentreImputation`) REFERENCES `CentreImputation` (`code`);
 ALTER TABLE `Agent`
 ADD FOREIGN KEY (`codeSociete`) REFERENCES `Societe` (`code`);
 ALTER TABLE `Agent`

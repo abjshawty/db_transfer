@@ -1,0 +1,3060 @@
+[{
+  "_id": {
+    "$oid": "65196695a4ba4ba2a1305fe5"
+  },
+  "codeZoneIntervention": "ABDE",
+  "libelleZoneIntervention": "ABOUDE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:31:17.261Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:31:17.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651966b1a4ba4ba2a1305fe7"
+  },
+  "codeZoneIntervention": "Abe",
+  "libelleZoneIntervention": "Abengourou",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:31:45.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:31:45.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651967d2a4ba4ba2a1305fe9"
+  },
+  "codeZoneIntervention": "Abj",
+  "libelleZoneIntervention": "Abidjan",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:36:34.019Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:36:34.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651967f2a4ba4ba2a1305feb"
+  },
+  "codeZoneIntervention": "Abo",
+  "libelleZoneIntervention": "Aboisso",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:37:06.375Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:37:06.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6519680aa4ba4ba2a1305fed"
+  },
+  "codeZoneIntervention": "ADI",
+  "libelleZoneIntervention": "ADIAKE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:37:30.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:37:30.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65196834a4ba4ba2a1305fef"
+  },
+  "codeZoneIntervention": "ADJ",
+  "libelleZoneIntervention": "ADJOUAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:38:12.753Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:38:12.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65196883a4ba4ba2a1305ff2"
+  },
+  "codeZoneIntervention": "Adz",
+  "libelleZoneIntervention": "Adzopé",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-01T12:39:31.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-01T12:39:31.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba2f"
+  },
+  "codeZoneIntervention": "AGN",
+  "libelleZoneIntervention": "AGNIBILEKROU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.423Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba31"
+  },
+  "codeZoneIntervention": "AGO",
+  "libelleZoneIntervention": "AGOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba33"
+  },
+  "codeZoneIntervention": "AKE",
+  "libelleZoneIntervention": "AKOURE-DABLE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba35"
+  },
+  "codeZoneIntervention": "AKO",
+  "libelleZoneIntervention": "AKOUPE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba37"
+  },
+  "codeZoneIntervention": "ALE",
+  "libelleZoneIntervention": "ALEPE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.439Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba39"
+  },
+  "codeZoneIntervention": "AND",
+  "libelleZoneIntervention": "ANDE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.441Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba3b"
+  },
+  "codeZoneIntervention": "ANO",
+  "libelleZoneIntervention": "ANANGUIE-AHOUABO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.443Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba3d"
+  },
+  "codeZoneIntervention": "ANY",
+  "libelleZoneIntervention": "ANYAMA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba3f"
+  },
+  "codeZoneIntervention": "ARR",
+  "libelleZoneIntervention": "ARRAH",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.450Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba41"
+  },
+  "codeZoneIntervention": "ASI",
+  "libelleZoneIntervention": "ASSUEFRI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.452Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba43"
+  },
+  "codeZoneIntervention": "ASK",
+  "libelleZoneIntervention": "ASSIKOUA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.455Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba45"
+  },
+  "codeZoneIntervention": "ASM",
+  "libelleZoneIntervention": "ASSINIE MAFIA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.458Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba47"
+  },
+  "codeZoneIntervention": "ATT",
+  "libelleZoneIntervention": "ATTINGUIE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.460Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba49"
+  },
+  "codeZoneIntervention": "AYA",
+  "libelleZoneIntervention": "AYAME",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba4b"
+  },
+  "codeZoneIntervention": "AZA",
+  "libelleZoneIntervention": "AZAGUIE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.463Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba4d"
+  },
+  "codeZoneIntervention": "BAK",
+  "libelleZoneIntervention": "BAKO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba4f"
+  },
+  "codeZoneIntervention": "BAN",
+  "libelleZoneIntervention": "BANGOLO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.467Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba51"
+  },
+  "codeZoneIntervention": "BAS",
+  "libelleZoneIntervention": "BASSAM",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.469Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba53"
+  },
+  "codeZoneIntervention": "BC",
+  "libelleZoneIntervention": "Basse Côte",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba55"
+  },
+  "codeZoneIntervention": "BEC",
+  "libelleZoneIntervention": "BECEDI BRIAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.473Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba57"
+  },
+  "codeZoneIntervention": "BEO",
+  "libelleZoneIntervention": "BEOUMI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba59"
+  },
+  "codeZoneIntervention": "BET",
+  "libelleZoneIntervention": "BETTIE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.478Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba5b"
+  },
+  "codeZoneIntervention": "Bia",
+  "libelleZoneIntervention": "Biankouma",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.479Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba5d"
+  },
+  "codeZoneIntervention": "BIH",
+  "libelleZoneIntervention": "BIN HOUYE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.482Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba5f"
+  },
+  "codeZoneIntervention": "BIK",
+  "libelleZoneIntervention": "BIANKOUMA GOUES",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.484Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba61"
+  },
+  "codeZoneIntervention": "BIN",
+  "libelleZoneIntervention": "BINGERVILLE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.486Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba63"
+  },
+  "codeZoneIntervention": "BLO",
+  "libelleZoneIntervention": "BLOLEQUIN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.488Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba65"
+  },
+  "codeZoneIntervention": "BOA",
+  "libelleZoneIntervention": "BONOUA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba67"
+  },
+  "codeZoneIntervention": "BOB",
+  "libelleZoneIntervention": "BONNEREDOUGOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.492Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba69"
+  },
+  "codeZoneIntervention": "BOC",
+  "libelleZoneIntervention": "BOCANDA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.494Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba6b"
+  },
+  "codeZoneIntervention": "Bod",
+  "libelleZoneIntervention": "Bondoukou",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.496Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba6d"
+  },
+  "codeZoneIntervention": "BOE",
+  "libelleZoneIntervention": "BOUDEPE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.498Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba6f"
+  },
+  "codeZoneIntervention": "Bof",
+  "libelleZoneIntervention": "Bouaflé",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.500Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba71"
+  },
+  "codeZoneIntervention": "Bog",
+  "libelleZoneIntervention": "Bongouanou",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.502Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba73"
+  },
+  "codeZoneIntervention": "Bok",
+  "libelleZoneIntervention": "Bouaké",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba75"
+  },
+  "codeZoneIntervention": "Bol",
+  "libelleZoneIntervention": "Boundiali",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.505Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba77"
+  },
+  "codeZoneIntervention": "Bon",
+  "libelleZoneIntervention": "Bouna",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.507Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba79"
+  },
+  "codeZoneIntervention": "BOO",
+  "libelleZoneIntervention": "BONON",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.509Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba7b"
+  },
+  "codeZoneIntervention": "BOR",
+  "libelleZoneIntervention": "BOROTOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba7d"
+  },
+  "codeZoneIntervention": "BOT",
+  "libelleZoneIntervention": "BOTRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.512Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba7f"
+  },
+  "codeZoneIntervention": "BRO",
+  "libelleZoneIntervention": "BROBO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.514Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba81"
+  },
+  "codeZoneIntervention": "BUY",
+  "libelleZoneIntervention": "BUYO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.516Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba83"
+  },
+  "codeZoneIntervention": "Dab",
+  "libelleZoneIntervention": "Dabakala",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.518Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba85"
+  },
+  "codeZoneIntervention": "DAD",
+  "libelleZoneIntervention": "DABOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.519Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba87"
+  },
+  "codeZoneIntervention": "Dal",
+  "libelleZoneIntervention": "Daloa",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.521Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba89"
+  },
+  "codeZoneIntervention": "Dan",
+  "libelleZoneIntervention": "Danané",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.523Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba8b"
+  },
+  "codeZoneIntervention": "DAO",
+  "libelleZoneIntervention": "DAOUKRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.526Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba8d"
+  },
+  "codeZoneIntervention": "DIA",
+  "libelleZoneIntervention": "DIABO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba8f"
+  },
+  "codeZoneIntervention": "DID",
+  "libelleZoneIntervention": "DIDIEVI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba91"
+  },
+  "codeZoneIntervention": "DIE",
+  "libelleZoneIntervention": "DIEGONEFLA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba93"
+  },
+  "codeZoneIntervention": "DIK",
+  "libelleZoneIntervention": "DIKODOUGOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba95"
+  },
+  "codeZoneIntervention": "Dim",
+  "libelleZoneIntervention": "Dimbokro",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba97"
+  },
+  "codeZoneIntervention": "Div",
+  "libelleZoneIntervention": "Divo",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.539Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba99"
+  },
+  "codeZoneIntervention": "DIW",
+  "libelleZoneIntervention": "DIAWALA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.540Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba9b"
+  },
+  "codeZoneIntervention": "DRABEN",
+  "libelleZoneIntervention": "DR ABENGOUROU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.542Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba9d"
+  },
+  "codeZoneIntervention": "DRANE",
+  "libelleZoneIntervention": "DRANE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.544Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65ba9f"
+  },
+  "codeZoneIntervention": "DRANO",
+  "libelleZoneIntervention": "DRANO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.549Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baa1"
+  },
+  "codeZoneIntervention": "DRAS",
+  "libelleZoneIntervention": "DRAS",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.551Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baa3"
+  },
+  "codeZoneIntervention": "DRBC",
+  "libelleZoneIntervention": "DR BASSE COTE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.553Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baa5"
+  },
+  "codeZoneIntervention": "DRBKE",
+  "libelleZoneIntervention": "DR BOUAKE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baa7"
+  },
+  "codeZoneIntervention": "DRDAL",
+  "libelleZoneIntervention": "DR DALOA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.557Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baa9"
+  },
+  "codeZoneIntervention": "DRGAG",
+  "libelleZoneIntervention": "DR GAGNOA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.559Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baab"
+  },
+  "codeZoneIntervention": "DRKOR",
+  "libelleZoneIntervention": "DR KORHOGO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.560Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baad"
+  },
+  "codeZoneIntervention": "DRMAN",
+  "libelleZoneIntervention": "DR MAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baaf"
+  },
+  "codeZoneIntervention": "DRYAM",
+  "libelleZoneIntervention": "DR YAMOUSSOUKRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.564Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bab1"
+  },
+  "codeZoneIntervention": "DUE",
+  "libelleZoneIntervention": "DUEKOUE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bab3"
+  },
+  "codeZoneIntervention": "FAC",
+  "libelleZoneIntervention": "FACOBLY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.567Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bab5"
+  },
+  "codeZoneIntervention": "Fer",
+  "libelleZoneIntervention": "Ferkéssédougou",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.569Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bab7"
+  },
+  "codeZoneIntervention": "FRE",
+  "libelleZoneIntervention": "FRESCO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bab9"
+  },
+  "codeZoneIntervention": "FRO",
+  "libelleZoneIntervention": "FRONAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.573Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65babb"
+  },
+  "codeZoneIntervention": "GAD",
+  "libelleZoneIntervention": "GADOUAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.574Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65babd"
+  },
+  "codeZoneIntervention": "Gag",
+  "libelleZoneIntervention": "Gagnoa",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65babf"
+  },
+  "codeZoneIntervention": "GBO",
+  "libelleZoneIntervention": "GBON",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.578Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bac1"
+  },
+  "codeZoneIntervention": "GDB ",
+  "libelleZoneIntervention": "Gd BASSAM",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bac3"
+  },
+  "codeZoneIntervention": "GOH",
+  "libelleZoneIntervention": "GOHITAFLA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.583Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bac5"
+  },
+  "codeZoneIntervention": "GOU",
+  "libelleZoneIntervention": "GOULIA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bac7"
+  },
+  "codeZoneIntervention": "GRA",
+  "libelleZoneIntervention": "GRAND AFFERY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.588Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bac9"
+  },
+  "codeZoneIntervention": "GRB",
+  "libelleZoneIntervention": "GRAND BEREBY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.590Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bacb"
+  },
+  "codeZoneIntervention": "GRL",
+  "libelleZoneIntervention": "GRAND-LAHOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bacd"
+  },
+  "codeZoneIntervention": "GRM",
+  "libelleZoneIntervention": "GRAND MORIE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.594Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bacf"
+  },
+  "codeZoneIntervention": "GRZ",
+  "libelleZoneIntervention": "GRAND ZATRY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bad1"
+  },
+  "codeZoneIntervention": "GUA",
+  "libelleZoneIntervention": "GUIBEROUA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bad3"
+  },
+  "codeZoneIntervention": "GUB",
+  "libelleZoneIntervention": "GUIEMBE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bad5"
+  },
+  "codeZoneIntervention": "GUE",
+  "libelleZoneIntervention": "GUEYO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bad7"
+  },
+  "codeZoneIntervention": "Gui",
+  "libelleZoneIntervention": "Guiglo",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bad9"
+  },
+  "codeZoneIntervention": "GUT",
+  "libelleZoneIntervention": "GUITRY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65badb"
+  },
+  "codeZoneIntervention": "HER",
+  "libelleZoneIntervention": "HERMANKONO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65badd"
+  },
+  "codeZoneIntervention": "HIR",
+  "libelleZoneIntervention": "HIRE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65badf"
+  },
+  "codeZoneIntervention": "Iss",
+  "libelleZoneIntervention": "Issia",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.613Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bae1"
+  },
+  "codeZoneIntervention": "JAC",
+  "libelleZoneIntervention": "JACQUEVILLE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.616Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bae3"
+  },
+  "codeZoneIntervention": "KAI",
+  "libelleZoneIntervention": "KANI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bae5"
+  },
+  "codeZoneIntervention": "KAN",
+  "libelleZoneIntervention": "KANIASSO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.620Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bae7"
+  },
+  "codeZoneIntervention": "KAO",
+  "libelleZoneIntervention": "KANAKONO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bae9"
+  },
+  "codeZoneIntervention": "KAS",
+  "libelleZoneIntervention": "KASSERE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.624Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baeb"
+  },
+  "codeZoneIntervention": "Kat",
+  "libelleZoneIntervention": "Katiola",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.626Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baed"
+  },
+  "codeZoneIntervention": "KET",
+  "libelleZoneIntervention": "KETESSO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baef"
+  },
+  "codeZoneIntervention": "KOB",
+  "libelleZoneIntervention": "KOTOBI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.630Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baf1"
+  },
+  "codeZoneIntervention": "KOF",
+  "libelleZoneIntervention": "KOUN-FAO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.632Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baf3"
+  },
+  "codeZoneIntervention": "KOG",
+  "libelleZoneIntervention": "KONG",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.635Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baf5"
+  },
+  "codeZoneIntervention": "KOI",
+  "libelleZoneIntervention": "KOUASSI-KOUASSI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baf7"
+  },
+  "codeZoneIntervention": "KOL",
+  "libelleZoneIntervention": "KOLIA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.639Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baf9"
+  },
+  "codeZoneIntervention": "KOM",
+  "libelleZoneIntervention": "KOMBORO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.641Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bafb"
+  },
+  "codeZoneIntervention": "KON",
+  "libelleZoneIntervention": "KONONFLA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.643Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bafd"
+  },
+  "codeZoneIntervention": "KOO",
+  "libelleZoneIntervention": "KOUASSI DATEKRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.645Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65baff"
+  },
+  "codeZoneIntervention": "Kor",
+  "libelleZoneIntervention": "Korhogo",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.647Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb01"
+  },
+  "codeZoneIntervention": "KOS",
+  "libelleZoneIntervention": "KOSSOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.648Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb03"
+  },
+  "codeZoneIntervention": "KOT",
+  "libelleZoneIntervention": "KOUTO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb05"
+  },
+  "codeZoneIntervention": "KOY",
+  "libelleZoneIntervention": "KOUIBLY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.651Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb07"
+  },
+  "codeZoneIntervention": "KRO",
+  "libelleZoneIntervention": "KORO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb09"
+  },
+  "codeZoneIntervention": "Lak",
+  "libelleZoneIntervention": "Lakota",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.655Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb0b"
+  },
+  "codeZoneIntervention": "LOG",
+  "libelleZoneIntervention": "LOGOUALLE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.657Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb0d"
+  },
+  "codeZoneIntervention": "LOP",
+  "libelleZoneIntervention": "LOPOU-YOHOULI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.659Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb0f"
+  },
+  "codeZoneIntervention": "MAD",
+  "libelleZoneIntervention": "MADINANI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.660Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb11"
+  },
+  "codeZoneIntervention": "MAF",
+  "libelleZoneIntervention": "MAFERE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.662Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb13"
+  },
+  "codeZoneIntervention": "MAI",
+  "libelleZoneIntervention": "MANINIAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.664Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb15"
+  },
+  "codeZoneIntervention": "Mak",
+  "libelleZoneIntervention": "Mankono",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.666Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb17"
+  },
+  "codeZoneIntervention": "Man",
+  "libelleZoneIntervention": "Man",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.668Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb19"
+  },
+  "codeZoneIntervention": "MBA ",
+  "libelleZoneIntervention": "M'BATTO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb1b"
+  },
+  "codeZoneIntervention": "MBE",
+  "libelleZoneIntervention": "MBENGUE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.671Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb1d"
+  },
+  "codeZoneIntervention": "MBH",
+  "libelleZoneIntervention": "M'BAHIAKRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.674Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb1f"
+  },
+  "codeZoneIntervention": "MEA",
+  "libelleZoneIntervention": "MEAGUI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb21"
+  },
+  "codeZoneIntervention": "MEM",
+  "libelleZoneIntervention": "MEMNI-MONTEZO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb23"
+  },
+  "codeZoneIntervention": "MOA",
+  "libelleZoneIntervention": "MOAPE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb25"
+  },
+  "codeZoneIntervention": "NAP",
+  "libelleZoneIntervention": "NAPIOLEDOUGOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.684Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb27"
+  },
+  "codeZoneIntervention": "NAS",
+  "libelleZoneIntervention": "NASSIAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.688Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb29"
+  },
+  "codeZoneIntervention": "NGU",
+  "libelleZoneIntervention": "N'GUESSAN POK.",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.691Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb2b"
+  },
+  "codeZoneIntervention": "NIA",
+  "libelleZoneIntervention": "NIABLEY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.695Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb2d"
+  },
+  "codeZoneIntervention": "NIE",
+  "libelleZoneIntervention": "NIELLE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.698Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb2f"
+  },
+  "codeZoneIntervention": "NIG",
+  "libelleZoneIntervention": "NIANGON",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb31"
+  },
+  "codeZoneIntervention": "NIK",
+  "libelleZoneIntervention": "NIAKARAMANDOUG.",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.708Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb33"
+  },
+  "codeZoneIntervention": "NIO",
+  "libelleZoneIntervention": "NIOFOIN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.712Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb35"
+  },
+  "codeZoneIntervention": "Odi",
+  "libelleZoneIntervention": "Odiénné",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.715Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb37"
+  },
+  "codeZoneIntervention": "OKR",
+  "libelleZoneIntervention": "OKROUYO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.718Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb39"
+  },
+  "codeZoneIntervention": "ORE",
+  "libelleZoneIntervention": "ORESKROBOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.721Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb3b"
+  },
+  "codeZoneIntervention": "OUE",
+  "libelleZoneIntervention": "OUELLE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.724Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb3d"
+  },
+  "codeZoneIntervention": "OUG",
+  "libelleZoneIntervention": "OUANGOLODOUGOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb3f"
+  },
+  "codeZoneIntervention": "Oum",
+  "libelleZoneIntervention": "Oumé",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.729Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb41"
+  },
+  "codeZoneIntervention": "OUR",
+  "libelleZoneIntervention": "OURAGAHIO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb43"
+  },
+  "codeZoneIntervention": "PAK",
+  "libelleZoneIntervention": "PAKOUABO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.733Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb45"
+  },
+  "codeZoneIntervention": "PRI",
+  "libelleZoneIntervention": "PRIKRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb47"
+  },
+  "codeZoneIntervention": "RUB",
+  "libelleZoneIntervention": "RUBINO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.737Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb49"
+  },
+  "codeZoneIntervention": "SAA",
+  "libelleZoneIntervention": "SATAMA-SOKOURA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.739Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb4b"
+  },
+  "codeZoneIntervention": "SAD",
+  "libelleZoneIntervention": "SANDEGUE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.741Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb4d"
+  },
+  "codeZoneIntervention": "SAI",
+  "libelleZoneIntervention": "SAIOUA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.745Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb4f"
+  },
+  "codeZoneIntervention": "SAK",
+  "libelleZoneIntervention": "SAKASSOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.747Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb51"
+  },
+  "codeZoneIntervention": "SAM",
+  "libelleZoneIntervention": "SAMATIGUILA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.748Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb53"
+  },
+  "codeZoneIntervention": "San",
+  "libelleZoneIntervention": "San-Pedro",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.750Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb55"
+  },
+  "codeZoneIntervention": "SAR",
+  "libelleZoneIntervention": "SARHALA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb57"
+  },
+  "codeZoneIntervention": "Sas",
+  "libelleZoneIntervention": "Sassandra",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb59"
+  },
+  "codeZoneIntervention": "SAT",
+  "libelleZoneIntervention": "SATAMA-SOKORO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb5b"
+  },
+  "codeZoneIntervention": "Seg",
+  "libelleZoneIntervention": "Séguéla",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb5d"
+  },
+  "codeZoneIntervention": "SEL",
+  "libelleZoneIntervention": "SEGUELON",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.759Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb5f"
+  },
+  "codeZoneIntervention": "SEY",
+  "libelleZoneIntervention": "SEYDOUGOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.761Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb61"
+  },
+  "codeZoneIntervention": "SIF",
+  "libelleZoneIntervention": "SINFRA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.762Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb63"
+  },
+  "codeZoneIntervention": "SIK",
+  "libelleZoneIntervention": "SIKENSI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb65"
+  },
+  "codeZoneIntervention": "SIN",
+  "libelleZoneIntervention": "SINEMATIALI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.766Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb67"
+  },
+  "codeZoneIntervention": "SIP",
+  "libelleZoneIntervention": "SIPILOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.768Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb69"
+  },
+  "codeZoneIntervention": "SIR",
+  "libelleZoneIntervention": "SIRASSO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb6b"
+  },
+  "codeZoneIntervention": "SON",
+  "libelleZoneIntervention": "SONGON",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.772Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb6d"
+  },
+  "codeZoneIntervention": "Sou",
+  "libelleZoneIntervention": "Soubré",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.774Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb6f"
+  },
+  "codeZoneIntervention": "TAA",
+  "libelleZoneIntervention": "TAABO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.776Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb71"
+  },
+  "codeZoneIntervention": "Tab",
+  "libelleZoneIntervention": "Tabou",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.777Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb73"
+  },
+  "codeZoneIntervention": "TAF",
+  "libelleZoneIntervention": "TAFIRE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.781Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb75"
+  },
+  "codeZoneIntervention": "TAG",
+  "libelleZoneIntervention": "TANGUELAN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.782Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb77"
+  },
+  "codeZoneIntervention": "TAI",
+  "libelleZoneIntervention": "TAI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.784Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb79"
+  },
+  "codeZoneIntervention": "TAK",
+  "libelleZoneIntervention": "TANKESSE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.786Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb7b"
+  },
+  "codeZoneIntervention": "TAN",
+  "libelleZoneIntervention": "TANDA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb7d"
+  },
+  "codeZoneIntervention": "TEH",
+  "libelleZoneIntervention": "TEHINI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.789Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb7f"
+  },
+  "codeZoneIntervention": "TIA",
+  "libelleZoneIntervention": "TIASSALE NDOUCI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.791Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb81"
+  },
+  "codeZoneIntervention": "TIE",
+  "libelleZoneIntervention": "TIEBISSOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.793Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb83"
+  },
+  "codeZoneIntervention": "TIG",
+  "libelleZoneIntervention": "TIENINGBOUE",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.795Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb85"
+  },
+  "codeZoneIntervention": "TIK",
+  "libelleZoneIntervention": "TIENKO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.796Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb87"
+  },
+  "codeZoneIntervention": "TIM",
+  "libelleZoneIntervention": "TIEMELEKRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.798Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb89"
+  },
+  "codeZoneIntervention": "Tin",
+  "libelleZoneIntervention": "Tingréla",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb8b"
+  },
+  "codeZoneIntervention": "TIO",
+  "libelleZoneIntervention": "TIORONIARADOUG.",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb8d"
+  },
+  "codeZoneIntervention": "TMI",
+  "libelleZoneIntervention": "TIEME",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.803Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb8f"
+  },
+  "codeZoneIntervention": "TOM",
+  "libelleZoneIntervention": "TOUMODI",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.805Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb91"
+  },
+  "codeZoneIntervention": "TOP",
+  "libelleZoneIntervention": "TOULEPLEU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.808Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb93"
+  },
+  "codeZoneIntervention": "TOR",
+  "libelleZoneIntervention": "TORTIYA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.810Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb95"
+  },
+  "codeZoneIntervention": "Tou",
+  "libelleZoneIntervention": "Touba",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.813Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb97"
+  },
+  "codeZoneIntervention": "VAV",
+  "libelleZoneIntervention": "VAVOUA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb99"
+  },
+  "codeZoneIntervention": "WAN",
+  "libelleZoneIntervention": "WANINOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.818Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb9b"
+  },
+  "codeZoneIntervention": "WAS",
+  "libelleZoneIntervention": "WASSAKARA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.821Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb9d"
+  },
+  "codeZoneIntervention": "YAC",
+  "libelleZoneIntervention": "YACOLY",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.824Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bb9f"
+  },
+  "codeZoneIntervention": "YAK",
+  "libelleZoneIntervention": "YAKASSE ME",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.826Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bba1"
+  },
+  "codeZoneIntervention": "Yam",
+  "libelleZoneIntervention": "Yamoussoukro",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.828Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bba3"
+  },
+  "codeZoneIntervention": "YAT",
+  "libelleZoneIntervention": "YAKASSE-ATTOBRO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.831Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bba5"
+  },
+  "codeZoneIntervention": "ZAR",
+  "libelleZoneIntervention": "ZARANOU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.833Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bba7"
+  },
+  "codeZoneIntervention": "ZIK",
+  "libelleZoneIntervention": "ZIKISSO",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.836Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bba9"
+  },
+  "codeZoneIntervention": "ZOG",
+  "libelleZoneIntervention": "ZOUKOUGBEU",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bbab"
+  },
+  "codeZoneIntervention": "ZOU",
+  "libelleZoneIntervention": "ZOUAN-HOUNIEN",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e8714cc3c6f55fb65bbad"
+  },
+  "codeZoneIntervention": "Zue",
+  "libelleZoneIntervention": "Zuénoula",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:51:16.848Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:51:16.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e88c7cc3c6f55fb65bbd9"
+  },
+  "codeZoneIntervention": "DAL",
+  "libelleZoneIntervention": "DALOA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2023-10-05T09:58:31.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T09:58:31.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ac0cc6c6f2b359753571bb"
+  },
+  "codeZoneIntervention": "TOUB",
+  "libelleZoneIntervention": "TOUBA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2024-01-20T18:11:18.575Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T18:11:18.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d876dede9a4f76b3693182"
+  },
+  "codeZoneIntervention": "ABIDJAN1",
+  "libelleZoneIntervention": "GRAND ABIDJAN1",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2024-09-04T15:03:58.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:03:58.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a36158591b3512173f6f5"
+  },
+  "codeZoneIntervention": "Z0001",
+  "libelleZoneIntervention": "Test Zone",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2024-10-24T11:57:09.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T11:57:09.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675ac1458a1776d2f7c1dcab"
+  },
+  "codeZoneIntervention": "KEN",
+  "libelleZoneIntervention": "KENYA",
+  "typeLieu": "VILLE",
+  "createdAt": {
+    "$date": "2024-12-12T10:56:05.922Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-12T10:56:05.922Z"
+  },
+  "__v": 0
+}]

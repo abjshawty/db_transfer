@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "665e30875b73c2d79ad2ab8d"
+  },
+  "status": "active",
+  "name": "CAISSE",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-03T21:07:19.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:12:51.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66603c1e48045a82babb8726"
+  },
+  "status": "active",
+  "name": "VALIDATEUR",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-06-05T10:21:18.076Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:13:10.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d8790cc3b413884adc011f"
+  },
+  "status": "active",
+  "name": "INJECTEUR",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2024-09-04T15:13:16.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-04T15:13:16.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c18eb01e72ef4ea33837"
+  },
+  "status": "active",
+  "name": "ADMIN",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:50.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:50.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c192b01e72ef4ea3383f"
+  },
+  "status": "active",
+  "name": "USERS",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:37:54.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:37:54.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6798c198b01e72ef4ea33847"
+  },
+  "status": "active",
+  "name": "CAISSIER",
+  "user": {
+    "$oid": "666037a70f884630a3dc83f1"
+  },
+  "createdAt": {
+    "$date": "2025-01-28T11:38:00.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-28T11:38:00.916Z"
+  },
+  "__v": 0
+}]

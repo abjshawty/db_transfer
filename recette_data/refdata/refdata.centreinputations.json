@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65003082ab2429ade7361a29"
+  },
+  "codeci": "020000",
+  "libci": "DIRECTION GENERALE",
+  "codeEntite": "DG",
+  "createdAt": {
+    "$date": "2023-09-12T09:33:54.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c5b9a9a52b215df3c7e7f"
+  },
+  "codeci": "020200",
+  "libci": "COMITE D'ENTREPRISE",
+  "codeEntite": "DFC",
+  "createdAt": {
+    "$date": "2023-10-03T18:21:14.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c5c699a52b215df3c7e82"
+  },
+  "codeci": "020300",
+  "libci": "0203 CONSEIL EN COMMUNICATION",
+  "codeEntite": "DG",
+  "createdAt": {
+    "$date": "2023-10-03T18:24:41.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c5d079a52b215df3c7e85"
+  },
+  "codeci": "020400",
+  "libci": "0204 DIRECTION DU BUDGET",
+  "codeEntite": "DBCG",
+  "createdAt": {
+    "$date": "2023-10-03T18:27:19.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c5efe9a52b215df3c7e88"
+  },
+  "codeci": "020700",
+  "libci": "DIRECTION FINANCIERE ET COMPTABLE",
+  "codeEntite": "DFC",
+  "createdAt": {
+    "$date": "2023-10-03T18:35:42.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3442408e05e208a40312b"
+  },
+  "codeci": "ROK",
+  "libci": "ROK",
+  "codeEntite": "DG",
+  "createdAt": {
+    "$date": "2025-02-05T10:57:40.660Z"
+  },
+  "__v": 0
+}]

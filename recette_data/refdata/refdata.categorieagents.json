@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "650d8482a4ba4ba2a12fe5bd"
+  },
+  "codeCategorieAgent": "CA",
+  "libelleCategorieAgent": "Cadres",
+  "createdAt": {
+    "$date": "2023-09-22T12:11:46.240Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:11:46.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8a1ba4ba4ba2a12fe602"
+  },
+  "codeCategorieAgent": "CAS",
+  "libelleCategorieAgent": "Cadre supérieur",
+  "createdAt": {
+    "$date": "2023-09-22T12:35:39.449Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:35:39.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8a2da4ba4ba2a12fe605"
+  },
+  "codeCategorieAgent": "E",
+  "libelleCategorieAgent": "Employé",
+  "createdAt": {
+    "$date": "2023-09-22T12:35:57.507Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:35:57.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d8a52a4ba4ba2a12fe608"
+  },
+  "codeCategorieAgent": "M",
+  "libelleCategorieAgent": "Maitrise",
+  "createdAt": {
+    "$date": "2023-09-22T12:36:34.958Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T12:36:34.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ecd48fe00cb498bdc977a"
+  },
+  "codeCategorieAgent": "O",
+  "libelleCategorieAgent": "Ouvrier",
+  "createdAt": {
+    "$date": "2023-10-05T14:50:48.534Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T14:50:48.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a91457c6f2b3597535712a"
+  },
+  "codeCategorieAgent": "S",
+  "libelleCategorieAgent": "Stagiaire",
+  "createdAt": {
+    "$date": "2024-01-18T12:06:47.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T12:06:47.570Z"
+  },
+  "__v": 0
+}]
